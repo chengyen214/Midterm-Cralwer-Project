@@ -7,8 +7,10 @@ from urllib.robotparser import RobotFileParser
 
 USER_AGENT = (
     "StudentWebCrawler/1.0 "
-    "(Educational Research; contact: your-email@example.com)"
+    "(Educational Research; contact: m1155508@mail.nuk.edu.tw, m1155511@mail.nuk.edu.tw, m1155528@mail.nuk.edu.tw)"
 )
+
+
 
 ROBOTS_DIR = "robots_data"
 

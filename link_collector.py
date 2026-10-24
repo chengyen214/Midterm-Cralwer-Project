@@ -40,8 +40,10 @@ OUTPUT_FILE = Path("filtered_links.json")
 
 USER_AGENT = (
     "StudentWebCrawler/1.0 "
-    "(Educational Research; contact: m1155508@mail.nuk.edu.tw)"
+    "(Educational Research; contact: m1155508@mail.nuk.edu.tw, m1155511@mail.nuk.edu.tw, m1155528@mail.nuk.edu.tw)"
 )
+
+
 
 TIMEOUT = 10
 MAX_ATTEMPTS = 3000
