@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /*?*ajax=
+Disallow: /search/
+
+Sitemap: https://www.engadget.com/sitemap_index.xml
+Sitemap: https://www.engadget.com/?getfeed=google

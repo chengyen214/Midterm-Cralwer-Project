@@ -1,0 +1,66 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /dls/
+Disallow: /e-books-stats/
+Disallow: /ebooks-subscribe/
+Disallow: /newsletter-sign-up-submit/
+Disallow: /?s$
+Disallow: /rss-feeds/*
+Disallow: /newsletter-archive/*
+Disallow: /sponsors/
+Disallow: /wp-login.php
+Disallow: /wp-content/themes/tns-2022/assets/
+Disallow: /wp-content/themes/tns-2022/data/
+Disallow: /assets/
+Disallow: /no-cache/
+Disallow: /cdn-cgi/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://thenewstack.io/sitemap_index.xml
+
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Cohere-ai
+Disallow: /
+
+User-agent: Seekr
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: meta-webindexer
+Disallow: /
+

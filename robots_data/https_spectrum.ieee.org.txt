@@ -1,0 +1,180 @@
+User-agent: *
+Disallow: /files/*/*.pdf
+Disallow: /files/*/*.html
+Disallow: /core/*
+Disallow: /r/*
+Disallow: /mnt/*
+Disallow: /search/*
+
+# ===== GOOGLE =====
+
+# Allow search including AI Overviews, Gemini
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Google-InspectionTool
+Allow: /
+
+# Block use of content to train AI
+User-agent: Google-Extended
+Disallow: /
+
+# Block generic non-search crawling
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: GoogleOther-Image
+Disallow: /
+
+User-agent: GoogleOther-Video
+Disallow: /
+
+# ===== OPENAI =====
+
+# Allow search/retrieval results
+User-agent: OAI-SearchBot
+Allow: /
+
+# Allow user-initiated browsing
+User-agent: ChatGPT-User
+Allow: /
+
+# Block use of content to train AI
+User-agent: GPTBot
+Disallow: /
+
+# ===== ANTHROPIC =====
+
+# Allow search/retrieval results
+User-agent: Claude-SearchBot
+Allow: /
+
+# Allow user-initiated browsing
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Block use of content to train AI
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+# ===== APPLE =====
+
+# Allow search (Siri, Spotlight, Safari)
+User-agent: Applebot
+Allow: /
+
+# Block use of content to train AI
+User-agent: Applebot-Extended
+Disallow: /
+
+# ===== AMAZON =====
+
+# Block use of content for AI training, ads etc.
+User-agent: Amazonbot
+Disallow: /
+
+# ===== META =====
+
+# Allow link previews when content is shared on Meta platforms
+User-agent: facebookexternalhit
+Allow: /
+
+# Allow search
+User-agent: meta-webindexer
+Allow: /
+User-agent: Meta-WebIndexer
+Allow: /
+
+# Block use of content to train AI
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+# ===== OTHERS =====
+
+# Block use of content to train AI, scrapping, high volume crawling
+
+User-agent: AwarioRssBot
+Disallow: /
+
+User-agent: AwarioSmartBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: news-please
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: peer39_crawler
+Disallow: /
+
+User-agent: peer39_crawler/1.0
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Perplexity-User
+Disallow: /
+
+User-agent: Quora-Bot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+Sitemap: https://spectrum.ieee.org/sitemap.xml
+Sitemap: https://spectrum.ieee.org/feeds/sitemaps/news_1.xml

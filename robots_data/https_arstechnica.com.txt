@@ -1,0 +1,84 @@
+Sitemap: https://arstechnica.com/sitemap.xml
+
+# Google Image
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*
+
+# Google AdSense
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: Google-Extended
+User-agent: Google-CloudVertexBot
+User-agent: GoogleOther
+User-agent: Applebot-Extended
+User-agent: meta-webindexer
+User-agent: meta-externalagent
+User-agent: meta-externalfetcher
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: cohere-training-data-crawler
+User-agent: cohere-ai
+User-agent: CCBot
+User-agent: PanguBot
+User-agent: PetalBot
+User-agent: Bytespider
+User-agent: Diffbot
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+User-agent: Timpibot
+User-agent: Webzio
+User-agent: Webzio-Extended
+User-agent: archive.org_bot
+User-agent: ia_archiver
+User-agent: ia_archiver-web.archive.org
+User-agent: heritrix
+User-agent: anthropic-ai
+User-agent: Claude-Web
+User-agent: FacebookBot
+User-agent: Omgilibot
+User-agent: YouBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+Allow: /feed/amazon-rss
+
+# Global
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp/wp-admin/
+Disallow: /wp/wp-includes/
+Disallow: /wp/wp-content/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/mu_plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /trackback/
+Disallow: /comments/
+Disallow: /category/*/*
+Disallow: */trackback/
+Disallow: */comments/
+Disallow: /search
+Disallow: */*comments=
+Disallow: */*comments-page=
+Disallow: /services/*
+Disallow: /com.condenast/yv8*
+
+# Xenforo
+Disallow: /civis/account/
+Disallow: /civis/members/
+Disallow: /civis/attachments/
+Disallow: /civis/goto/
+Disallow: /civis/help/
+Disallow: /civis/posts/
+Disallow: /civis/login/
+Disallow: /civis/search/
+Disallow: /civis/admin.php
+Disallow: /civis/threads/*in_iframe=1*
+Disallow: /civis/threads/*wp_data=*
+Disallow: */toggle-*.json?
