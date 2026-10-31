@@ -18,6 +18,7 @@ TF_FILE = OUTPUT_DIR / "tf.json"
 DF_FILE = OUTPUT_DIR / "df.json"
 IDF_FILE = OUTPUT_DIR / "idf.json"
 TFIDF_FILE = OUTPUT_DIR / "tfidf.json"
+POSTINGS_FILE = OUTPUT_DIR / "postings.json"
 
 
 # ============================================================
@@ -130,7 +131,35 @@ def calculate_tfidf(tf_data, idf_data):
 
 
 # ============================================================
-# 6. 儲存 JSON
+# 6. 建立 Postings List：Inverted Index
+# ============================================================
+
+def build_postings_list(tf_data):
+    """
+    建立倒排索引：
+
+    Term -> [(DocID, Term Frequency)]
+
+    將原本以 DocID 為主的 TF 資料，
+    轉換成以 Term 為主的 Postings List。
+    """
+
+    postings_data = defaultdict(list)
+
+    for doc_id, terms in tf_data.items():
+
+        for term, tf_value in terms.items():
+
+            postings_data[term].append([
+                doc_id,
+                tf_value
+            ])
+
+    return dict(postings_data)
+
+
+# ============================================================
+# 7. 儲存 JSON
 # ============================================================
 
 def save_json(data, file_path):
@@ -150,13 +179,13 @@ def save_json(data, file_path):
 
 
 # ============================================================
-# 7. 主程式
+# 8. 主程式
 # ============================================================
 
 def main():
 
     print("=" * 60)
-    print("TF → DF → IDF → TF-IDF")
+    print("TF → DF → IDF → TF-IDF → Postings List")
     print("=" * 60)
 
     # 呼叫前處理程式
@@ -172,28 +201,51 @@ def main():
 
     # Step 1：計算 TF
     print("\n[Step 1] 計算 TF")
+
     tf_data = calculate_tf(documents)
+
     print(f"TF 文件數：{len(tf_data)}")
 
     # Step 2：計算 DF
     print("\n[Step 2] 計算 DF")
+
     df_data = calculate_df(documents)
+
     print(f"DF 詞彙數：{len(df_data)}")
 
     # Step 3：計算 IDF
     print("\n[Step 3] 計算 IDF")
-    idf_data = calculate_idf(df_data, total_documents)
+
+    idf_data = calculate_idf(
+        df_data,
+        total_documents
+    )
+
     print(f"IDF 詞彙數：{len(idf_data)}")
 
     # Step 4：計算 TF-IDF
     print("\n[Step 4] 計算 TF-IDF")
-    tfidf_data = calculate_tfidf(tf_data, idf_data)
+
+    tfidf_data = calculate_tfidf(
+        tf_data,
+        idf_data
+    )
+
+    # Step 5：建立 Postings List
+    print("\n[Step 5] 建立 Postings List")
+
+    postings_data = build_postings_list(tf_data)
+
+    print(f"Postings List 詞彙數：{len(postings_data)}")
 
     # 儲存計算結果
+    print("\n[儲存結果]")
+
     save_json(tf_data, TF_FILE)
     save_json(df_data, DF_FILE)
     save_json(idf_data, IDF_FILE)
     save_json(tfidf_data, TFIDF_FILE)
+    save_json(postings_data, POSTINGS_FILE)
 
     # 顯示部分結果
     print("\n" + "=" * 60)
@@ -218,6 +270,10 @@ def main():
     print("\nTF-IDF：")
     for term, value in list(tfidf_data[first_doc_id].items())[:10]:
         print(f"{term}: {value}")
+
+    print("\nPostings List：")
+    for term, postings in list(postings_data.items())[:10]:
+        print(f"{term}: {postings}")
 
 
 if __name__ == "__main__":
