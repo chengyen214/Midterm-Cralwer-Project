@@ -1,0 +1,349 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Technology News Search Engine</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f7fa;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 60px auto;
+            padding: 30px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #243447;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #777;
+            margin-bottom: 30px;
+        }
+
+        /* 搜尋區域 */
+        .search-box {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 25px;
+        }
+
+        .search-box input {
+            flex: 1;
+            min-width: 0;
+            padding: 14px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+        }
+
+        .search-box select {
+            padding: 14px;
+            font-size: 14px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            background-color: white;
+            color: #333;
+            cursor: pointer;
+        }
+
+        .search-box button {
+            padding: 14px 25px;
+            font-size: 16px;
+            color: white;
+            background-color: #2563eb;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        .search-box button:hover {
+            background-color: #1d4ed8;
+        }
+
+        /* 統計資訊 */
+        .statistics {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            color: #555;
+            font-size: 14px;
+        }
+
+        /* 搜尋方法資訊 */
+        .method-info {
+            font-size: 13px;
+            color: #666;
+            margin-bottom: 15px;
+        }
+
+        /* 搜尋結果卡片 */
+        .result-card {
+            background-color: white;
+            padding: 22px;
+            margin-bottom: 18px;
+            border-radius: 8px;
+            border: 1px solid #e5e7eb;
+        }
+
+        .result-title {
+            font-size: 19px;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .result-title a {
+            color: #1d4ed8;
+            text-decoration: none;
+        }
+
+        .result-title a:hover {
+            text-decoration: underline;
+        }
+
+        .result-url {
+            font-size: 13px;
+            color: #15803d;
+            word-break: break-all;
+            margin-bottom: 12px;
+        }
+
+        .snippet {
+            font-size: 14px;
+            line-height: 1.7;
+            color: #444;
+            margin-bottom: 12px;
+        }
+
+        .score {
+            font-size: 13px;
+            color: #666;
+        }
+
+        /* 無搜尋結果 */
+        .empty-message {
+            text-align: center;
+            padding: 35px;
+            background-color: white;
+            border-radius: 8px;
+            color: #777;
+        }
+
+        /* 頁尾 */
+        .footer {
+            text-align: center;
+            color: #999;
+            font-size: 12px;
+            margin-top: 40px;
+        }
+
+        /* 手機版 */
+        @media (max-width: 600px) {
+            .container {
+                margin: 20px auto;
+                padding: 15px;
+            }
+
+            .search-box {
+                flex-direction: column;
+            }
+
+            .search-box input,
+            .search-box select,
+            .search-box button {
+                width: 100%;
+            }
+
+            .statistics {
+                flex-direction: column;
+                gap: 8px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <!-- 網站標題 -->
+        <h1>Technology News Search Engine</h1>
+
+        <p class="subtitle">
+            Search technology and artificial intelligence news
+        </p>
+
+
+        <!-- 搜尋框與搜尋方法 -->
+        <form class="search-box" method="GET" action="/">
+
+            <input
+                type="text"
+                name="q"
+                placeholder="Enter keywords..."
+                value="{{ query }}"
+                required
+            >
+
+            <!-- 搜尋方法切換 -->
+            <select name="method">
+
+                <option
+                    value="tfidf"
+                    {% if method == "tfidf" %}selected{% endif %}
+                >
+                    TF-IDF + Cosine
+                </option>
+
+                <option
+                    value="bm25"
+                    {% if method == "bm25" %}selected{% endif %}
+                >
+                    BM25
+                </option>
+
+            </select>
+
+            <button type="submit">
+                Search
+            </button>
+
+        </form>
+
+
+        <!-- 總索引頁數與搜尋結果數量 -->
+        <div class="statistics">
+
+            <span>
+                Total Indexed Pages:
+                <strong>{{ total_documents }}</strong>
+            </span>
+
+            {% if searched and not is_empty_query %}
+
+            <span>
+                Search Results:
+                <strong>{{ total_results }}</strong>
+            </span>
+
+            {% endif %}
+
+        </div>
+
+
+        <!-- 顯示目前搜尋方法 -->
+        {% if searched and not is_empty_query %}
+
+        <div class="method-info">
+
+            Search Method:
+
+            {% if method == "bm25" %}
+                <strong>BM25</strong>
+            {% else %}
+                <strong>TF-IDF + Cosine Similarity</strong>
+            {% endif %}
+
+        </div>
+
+        {% endif %}
+
+
+        <!-- 搜尋結果 -->
+        {% if searched %}
+
+            {% if is_empty_query %}
+
+                <div class="empty-message">
+                    Please enter a search query.
+                </div>
+
+            {% elif results %}
+
+                {% for result in results %}
+
+                    <div class="result-card">
+
+                        <!-- Title -->
+                        <div class="result-title">
+
+                            <a
+                                href="{{ result.url }}"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                {{ result.title }}
+                            </a>
+
+                        </div>
+
+
+                        <!-- URL -->
+                        <div class="result-url">
+                            {{ result.url }}
+                        </div>
+
+
+                        <!-- Snippet -->
+                        <div class="snippet">
+                            {{ result.snippet }}
+                        </div>
+
+
+                        <!-- Score -->
+                        <div class="score">
+
+                            {% if method == "bm25" %}
+                                BM25 Score:
+                            {% else %}
+                                Similarity Score:
+                            {% endif %}
+
+                            <strong>
+                                {{ "%.6f"|format(result.score) }}
+                            </strong>
+
+                        </div>
+
+                    </div>
+
+                {% endfor %}
+
+            {% else %}
+
+                <div class="empty-message">
+                    No results found. Please try different keywords.
+                </div>
+
+            {% endif %}
+
+        {% endif %}
+
+
+        <!-- 頁尾 -->
+        <div class="footer">
+            Technology News Search Engine
+        </div>
+
+    </div>
+
+</body>
+</html>
