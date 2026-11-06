@@ -1,0 +1,3490 @@
+{
+    "total_documents": 670,
+    "total_terms": 19,
+    "matched_terms": 17,
+    "results": {
+        "machine learning": {
+            "document_count": 49,
+            "documents": [
+                {
+                    "document_index": 5,
+                    "title": "What Kubernetes’ \"monolith\" lesson means for AI agent harnesses",
+                    "url": "https://thenewstack.io/kubecon-agent-harness-koordinator/"
+                },
+                {
+                    "document_index": 16,
+                    "title": "Master AI Chip Principles With New IEEE Design Program",
+                    "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee"
+                },
+                {
+                    "document_index": 20,
+                    "title": "Spider-Like Drone Grips Steep Glaciers With Tiny Ice Spines",
+                    "url": "https://spectrum.ieee.org/arctic-iceberg-drones"
+                },
+                {
+                    "document_index": 26,
+                    "title": "Optical Fiber Networks Can Keep Rail Networks Safe",
+                    "url": "https://spectrum.ieee.org/distributed-acoustic-sensing-trains-railways"
+                },
+                {
+                    "document_index": 44,
+                    "title": "How Darth Vader Taught Me Card Counting and AI Security Got Weird",
+                    "url": "https://spectrum.ieee.org/jailbreaking-llms"
+                },
+                {
+                    "document_index": 48,
+                    "title": "Humans in the Loop—Or Just \"Meat Tools\" for AI Agents?",
+                    "url": "https://spectrum.ieee.org/agentic-ai-humans-in-loop"
+                },
+                {
+                    "document_index": 55,
+                    "title": "Tetrate launches open source marketplace to simplify Envoy adoption",
+                    "url": "https://thenewstack.io/tetrate-built-on-envoy/"
+                },
+                {
+                    "document_index": 72,
+                    "title": "Microsoft’s new voice AI can start working out what you want before you finish speaking",
+                    "url": "https://thenewstack.io/microsoft-streaming-speech-models/"
+                },
+                {
+                    "document_index": 105,
+                    "title": "WebAssembly is everywhere. Here's how it works",
+                    "url": "https://thenewstack.io/webassembly-is-everywhere-heres-how-it-works/"
+                },
+                {
+                    "document_index": 121,
+                    "title": "AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan.",
+                    "url": "https://thenewstack.io/kubernetes-agentic-ai-inference/"
+                },
+                {
+                    "document_index": 132,
+                    "title": "AWS WAF vs. Google Cloud Armor: A Multicloud Security Showdown",
+                    "url": "https://thenewstack.io/aws-waf-vs-google-cloud-armor-a-multicloud-security-showdown/"
+                },
+                {
+                    "document_index": 169,
+                    "title": "Mastra empowers web devs to build AI agents in TypeScript",
+                    "url": "https://thenewstack.io/mastra-empowers-web-devs-to-build-ai-agents-in-typescript/"
+                },
+                {
+                    "document_index": 177,
+                    "title": "DevOps Is Dead. Embrace Platform Engineering",
+                    "url": "https://thenewstack.io/devops-is-dead-embrace-platform-engineering/"
+                },
+                {
+                    "document_index": 183,
+                    "title": "Introduction to Frontend Development",
+                    "url": "https://thenewstack.io/introduction-to-frontend-development/"
+                },
+                {
+                    "document_index": 187,
+                    "title": "Trends That Defined JavaScript in 2025",
+                    "url": "https://thenewstack.io/trends-that-defined-javascript-in-2025/"
+                },
+                {
+                    "document_index": 196,
+                    "title": "Introduction to DevOps",
+                    "url": "https://thenewstack.io/introduction-to-devops/"
+                },
+                {
+                    "document_index": 203,
+                    "title": "Why the \"bible\" of data systems is getting a massive rewrite for 2026",
+                    "url": "https://thenewstack.io/data-intensive-applications-rewrite-2026/"
+                },
+                {
+                    "document_index": 206,
+                    "title": "SQL, NoSQL and Vectors, Oh My!",
+                    "url": "https://thenewstack.io/sql-nosql-and-vectors-oh-my/"
+                },
+                {
+                    "document_index": 207,
+                    "title": "Introduction to Databases",
+                    "url": "https://thenewstack.io/introduction-to-databases/"
+                },
+                {
+                    "document_index": 208,
+                    "title": "Backend Development in 2026: What's Changed, What Matters, and What to Learn Next",
+                    "url": "https://thenewstack.io/introduction-to-backend-development/"
+                },
+                {
+                    "document_index": 210,
+                    "title": "In the AI age, Java is more relevant than ever",
+                    "url": "https://thenewstack.io/in-the-ai-age-java-is-more-relevant-than-ever/"
+                },
+                {
+                    "document_index": 212,
+                    "title": "Infrastructure as Code: Introduction to IaC",
+                    "url": "https://thenewstack.io/introduction-to-infrastructure-as-code/"
+                },
+                {
+                    "document_index": 219,
+                    "title": "WebAssembly is everywhere. Here's how it works",
+                    "url": "https://thenewstack.io/webassembly-deep-dive/"
+                },
+                {
+                    "document_index": 226,
+                    "title": "Introduction to Containers",
+                    "url": "https://thenewstack.io/introduction-to-containers/"
+                },
+                {
+                    "document_index": 246,
+                    "title": "Aerospace News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/aerospace/"
+                },
+                {
+                    "document_index": 250,
+                    "title": "Biomedical News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/biomedical/"
+                },
+                {
+                    "document_index": 256,
+                    "title": "Consumer Electronics News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/consumer-electronics/"
+                },
+                {
+                    "document_index": 261,
+                    "title": "Open Source Archives",
+                    "url": "https://thenewstack.io/open-source/"
+                },
+                {
+                    "document_index": 267,
+                    "title": "AI Archives",
+                    "url": "https://thenewstack.io/ai/"
+                },
+                {
+                    "document_index": 270,
+                    "title": "Feature Articles on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/feature/"
+                },
+                {
+                    "document_index": 272,
+                    "title": "The Latest News on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/news/"
+                },
+                {
+                    "document_index": 276,
+                    "title": "Tech Careers News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/careers/"
+                },
+                {
+                    "document_index": 277,
+                    "title": "Frontend Development Archives",
+                    "url": "https://thenewstack.io/frontend-development/"
+                },
+                {
+                    "document_index": 279,
+                    "title": "Large Language Models Archives",
+                    "url": "https://thenewstack.io/llm/"
+                },
+                {
+                    "document_index": 282,
+                    "title": "Newsletters",
+                    "url": "https://spectrum.ieee.org/newsletters/"
+                },
+                {
+                    "document_index": 285,
+                    "title": "WebAssembly Archives",
+                    "url": "https://thenewstack.io/webassembly/"
+                },
+                {
+                    "document_index": 287,
+                    "title": "AI Operations Archives",
+                    "url": "https://thenewstack.io/ai-operations/"
+                },
+                {
+                    "document_index": 288,
+                    "title": "Explainers on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/explainer/"
+                },
+                {
+                    "document_index": 295,
+                    "title": "Kubernetes Archives",
+                    "url": "https://thenewstack.io/kubernetes/"
+                },
+                {
+                    "document_index": 297,
+                    "title": "Observability Archives",
+                    "url": "https://thenewstack.io/observability/"
+                },
+                {
+                    "document_index": 310,
+                    "title": "Tech Interviews on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/interview/"
+                },
+                {
+                    "document_index": 315,
+                    "title": "Python Archives",
+                    "url": "https://thenewstack.io/python/"
+                },
+                {
+                    "document_index": 351,
+                    "title": "Kimberly Fessel",
+                    "url": "https://thenewstack.io/author/kimberly-fessel/"
+                },
+                {
+                    "document_index": 355,
+                    "title": "Mayank Ahluwalia",
+                    "url": "https://thenewstack.io/author/mayank-ahluwalia/"
+                },
+                {
+                    "document_index": 397,
+                    "title": "AI News & Artificial Intelligence | TechCrunch",
+                    "url": "https://techcrunch.com/category/artificial-intelligence/"
+                },
+                {
+                    "document_index": 510,
+                    "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
+                },
+                {
+                    "document_index": 534,
+                    "title": "Amazon has over 1 million robot workers. What’s next for human employees? - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/"
+                },
+                {
+                    "document_index": 612,
+                    "title": "What Is NVIDIA DLSS And How Does It Work?",
+                    "url": "https://www.engadget.com/2281734/what-is-nvidia-dlss-how-works/"
+                },
+                {
+                    "document_index": 639,
+                    "title": "AI News & Artificial Intelligence | Page 2 of 530 | TechCrunch",
+                    "url": "https://techcrunch.com/category/artificial-intelligence/page/2/"
+                }
+            ]
+        },
+        "machine-learning": {
+            "document_count": 2,
+            "documents": [
+                {
+                    "document_index": 44,
+                    "title": "How Darth Vader Taught Me Card Counting and AI Security Got Weird",
+                    "url": "https://spectrum.ieee.org/jailbreaking-llms"
+                },
+                {
+                    "document_index": 534,
+                    "title": "Amazon has over 1 million robot workers. What’s next for human employees? - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/"
+                }
+            ]
+        },
+        "machinelearning": {
+            "document_count": 0,
+            "documents": []
+        },
+        "deep learning": {
+            "document_count": 8,
+            "documents": [
+                {
+                    "document_index": 42,
+                    "title": "Can AI's Intelligence Be Measured Like Human IQ?",
+                    "url": "https://spectrum.ieee.org/agi-benchmark"
+                },
+                {
+                    "document_index": 136,
+                    "title": "Google and AWS open new paths for PyTorch beyond Nvidia",
+                    "url": "https://thenewstack.io/pytorch-tpu-trainium-migration/"
+                },
+                {
+                    "document_index": 261,
+                    "title": "Open Source Archives",
+                    "url": "https://thenewstack.io/open-source/"
+                },
+                {
+                    "document_index": 267,
+                    "title": "AI Archives",
+                    "url": "https://thenewstack.io/ai/"
+                },
+                {
+                    "document_index": 284,
+                    "title": "Special Reports",
+                    "url": "https://spectrum.ieee.org/special-reports/"
+                },
+                {
+                    "document_index": 551,
+                    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+                },
+                {
+                    "document_index": 612,
+                    "title": "What Is NVIDIA DLSS And How Does It Work?",
+                    "url": "https://www.engadget.com/2281734/what-is-nvidia-dlss-how-works/"
+                },
+                {
+                    "document_index": 670,
+                    "title": "ChatGPT: Everything you need to know about the AI chatbot",
+                    "url": "https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/"
+                }
+            ]
+        },
+        "deep-learning": {
+            "document_count": 0,
+            "documents": []
+        },
+        "neural network": {
+            "document_count": 3,
+            "documents": [
+                {
+                    "document_index": 6,
+                    "title": "Simulation App Speeds Up Electric Truck Battery Design",
+                    "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation"
+                },
+                {
+                    "document_index": 540,
+                    "title": "Category: AI - Ars Technica",
+                    "url": "https://arstechnica.com/ai/page/2/"
+                },
+                {
+                    "document_index": 626,
+                    "title": "With most information hidden, the game Stratego had stumped AI—until now - Ars Technica",
+                    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+                }
+            ]
+        },
+        "neural networks": {
+            "document_count": 7,
+            "documents": [
+                {
+                    "document_index": 16,
+                    "title": "Master AI Chip Principles With New IEEE Design Program",
+                    "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee"
+                },
+                {
+                    "document_index": 254,
+                    "title": "Computing News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/computing/"
+                },
+                {
+                    "document_index": 267,
+                    "title": "AI Archives",
+                    "url": "https://thenewstack.io/ai/"
+                },
+                {
+                    "document_index": 274,
+                    "title": "Opinion & Essays on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/opinion/"
+                },
+                {
+                    "document_index": 279,
+                    "title": "Large Language Models Archives",
+                    "url": "https://thenewstack.io/llm/"
+                },
+                {
+                    "document_index": 306,
+                    "title": "Articles on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/article/"
+                },
+                {
+                    "document_index": 318,
+                    "title": "Profiles: Engineers, Entrepreneurs & Innovators",
+                    "url": "https://spectrum.ieee.org/type/profile/"
+                }
+            ]
+        },
+        "supervised learning": {
+            "document_count": 1,
+            "documents": [
+                {
+                    "document_index": 267,
+                    "title": "AI Archives",
+                    "url": "https://thenewstack.io/ai/"
+                }
+            ]
+        },
+        "unsupervised learning": {
+            "document_count": 1,
+            "documents": [
+                {
+                    "document_index": 267,
+                    "title": "AI Archives",
+                    "url": "https://thenewstack.io/ai/"
+                }
+            ]
+        },
+        "reinforcement learning": {
+            "document_count": 5,
+            "documents": [
+                {
+                    "document_index": 44,
+                    "title": "How Darth Vader Taught Me Card Counting and AI Security Got Weird",
+                    "url": "https://spectrum.ieee.org/jailbreaking-llms"
+                },
+                {
+                    "document_index": 124,
+                    "title": "How to turn AI production feedback into better agents",
+                    "url": "https://thenewstack.io/ai-agent-evaluation-loop/"
+                },
+                {
+                    "document_index": 231,
+                    "title": "Google turns the infrastructure behind Gemini’s agents into a cloud service",
+                    "url": "https://thenewstack.io/google-agent-compute-engine/"
+                },
+                {
+                    "document_index": 267,
+                    "title": "AI Archives",
+                    "url": "https://thenewstack.io/ai/"
+                },
+                {
+                    "document_index": 480,
+                    "title": "OpenAI models hacked a crypto wallet and breached more websites - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+                }
+            ]
+        },
+        "training data": {
+            "document_count": 12,
+            "documents": [
+                {
+                    "document_index": 2,
+                    "title": "AI Is Redefining the Concept of a Programming Language's Popularity",
+                    "url": "https://spectrum.ieee.org/top-programming-languages"
+                },
+                {
+                    "document_index": 10,
+                    "title": "Should We Worry About the Welfare of AI Models?",
+                    "url": "https://spectrum.ieee.org/ai-model-welfare"
+                },
+                {
+                    "document_index": 42,
+                    "title": "Can AI's Intelligence Be Measured Like Human IQ?",
+                    "url": "https://spectrum.ieee.org/agi-benchmark"
+                },
+                {
+                    "document_index": 44,
+                    "title": "How Darth Vader Taught Me Card Counting and AI Security Got Weird",
+                    "url": "https://spectrum.ieee.org/jailbreaking-llms"
+                },
+                {
+                    "document_index": 124,
+                    "title": "How to turn AI production feedback into better agents",
+                    "url": "https://thenewstack.io/ai-agent-evaluation-loop/"
+                },
+                {
+                    "document_index": 139,
+                    "title": "Code that passes every test can still break the next AI agent that touches it",
+                    "url": "https://thenewstack.io/go-language-ai-agents/"
+                },
+                {
+                    "document_index": 210,
+                    "title": "In the AI age, Java is more relevant than ever",
+                    "url": "https://thenewstack.io/in-the-ai-age-java-is-more-relevant-than-ever/"
+                },
+                {
+                    "document_index": 327,
+                    "title": "Webinars",
+                    "url": "https://thenewstack.io/webinars/"
+                },
+                {
+                    "document_index": 438,
+                    "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
+                },
+                {
+                    "document_index": 595,
+                    "title": "Marina Temkin, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/marina-temkin/"
+                },
+                {
+                    "document_index": 623,
+                    "title": "AI promises productivity, but for managers, it's mostly a headache for now | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
+                },
+                {
+                    "document_index": 670,
+                    "title": "ChatGPT: Everything you need to know about the AI chatbot",
+                    "url": "https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/"
+                }
+            ]
+        },
+        "model training": {
+            "document_count": 15,
+            "documents": [
+                {
+                    "document_index": 9,
+                    "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
+                    "url": "https://thenewstack.io/kubecon-kubernetes-updates-security/"
+                },
+                {
+                    "document_index": 66,
+                    "title": "Cloudflare wants to build the economic layer of the AI web",
+                    "url": "https://thenewstack.io/cloudflare-ai-web-economics/"
+                },
+                {
+                    "document_index": 67,
+                    "title": "AI data lakes are driving new storage demands",
+                    "url": "https://thenewstack.io/ai-data-lakes-storage/"
+                },
+                {
+                    "document_index": 231,
+                    "title": "Google turns the infrastructure behind Gemini’s agents into a cloud service",
+                    "url": "https://thenewstack.io/google-agent-compute-engine/"
+                },
+                {
+                    "document_index": 375,
+                    "title": "Engadget | Technology News & Expert Reviews",
+                    "url": "https://www.engadget.com/"
+                },
+                {
+                    "document_index": 378,
+                    "title": "AI - Engadget",
+                    "url": "https://www.engadget.com/category/ai/"
+                },
+                {
+                    "document_index": 381,
+                    "title": "Latest Stories - Engadget",
+                    "url": "https://www.engadget.com/latest/"
+                },
+                {
+                    "document_index": 384,
+                    "title": "News - Engadget",
+                    "url": "https://www.engadget.com/category/news/"
+                },
+                {
+                    "document_index": 420,
+                    "title": "Updated Google privacy policy says your Gmail might be used for advertising - Ars Technica",
+                    "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
+                },
+                {
+                    "document_index": 509,
+                    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+                },
+                {
+                    "document_index": 540,
+                    "title": "Category: AI - Ars Technica",
+                    "url": "https://arstechnica.com/ai/page/2/"
+                },
+                {
+                    "document_index": 541,
+                    "title": "OpenAI Says It's Cutting Off Internet Access For Frontier Model Training",
+                    "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/"
+                },
+                {
+                    "document_index": 559,
+                    "title": "ChatGPT Now Lets You Lock Sensitive Chats Behind A PIN",
+                    "url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/"
+                },
+                {
+                    "document_index": 647,
+                    "title": "OpenAI says planned GPT-6.1 is too insecure to release - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+                },
+                {
+                    "document_index": 657,
+                    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
+                }
+            ]
+        },
+        "model inference": {
+            "document_count": 2,
+            "documents": [
+                {
+                    "document_index": 69,
+                    "title": "When AI agent traces become application data",
+                    "url": "https://thenewstack.io/agent-traces-application-data/"
+                },
+                {
+                    "document_index": 82,
+                    "title": "Personalization is a ranking problem — architecture makes it work",
+                    "url": "https://thenewstack.io/vespa-realtime-personalization-ranking/"
+                }
+            ]
+        },
+        "classification": {
+            "document_count": 11,
+            "documents": [
+                {
+                    "document_index": 33,
+                    "title": "Your phone's vector index might be bigger than the AI model running it",
+                    "url": "https://thenewstack.io/google-embeddinggemma-multimodal-search/"
+                },
+                {
+                    "document_index": 78,
+                    "title": "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.",
+                    "url": "https://thenewstack.io/decision-models-system-one/"
+                },
+                {
+                    "document_index": 82,
+                    "title": "Personalization is a ranking problem — architecture makes it work",
+                    "url": "https://thenewstack.io/vespa-realtime-personalization-ranking/"
+                },
+                {
+                    "document_index": 94,
+                    "title": "DeepSeek V4.1-Flash-1017 vs. Claude Haiku 5.5: More accurate at a fraction of the price",
+                    "url": "https://thenewstack.io/deepseek-flash-haiku-test/"
+                },
+                {
+                    "document_index": 200,
+                    "title": "What Is 'Cloud Native' (and Why Does It Matter)?",
+                    "url": "https://thenewstack.io/cloud-native/what-is-cloud-native-and-why-does-it-matter/"
+                },
+                {
+                    "document_index": 204,
+                    "title": "Why the era of relying on dozens of \"purpose-built\" databases is finally coming to an end",
+                    "url": "https://thenewstack.io/unified-data-platform-strategy/"
+                },
+                {
+                    "document_index": 233,
+                    "title": "Nvidia bets open models can give enterprise AI agents the context they’re missing",
+                    "url": "https://thenewstack.io/nvidia-agent-knowledge-foundation/"
+                },
+                {
+                    "document_index": 265,
+                    "title": "Storage Archives",
+                    "url": "https://thenewstack.io/storage/"
+                },
+                {
+                    "document_index": 267,
+                    "title": "AI Archives",
+                    "url": "https://thenewstack.io/ai/"
+                },
+                {
+                    "document_index": 551,
+                    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+                },
+                {
+                    "document_index": 660,
+                    "title": "Terms of Service | TechCrunch",
+                    "url": "https://techcrunch.com/terms-of-service/"
+                }
+            ]
+        },
+        "regression": {
+            "document_count": 9,
+            "documents": [
+                {
+                    "document_index": 11,
+                    "title": "Amazon ECS now auto-repairs failing GPUs and instances. Here's why it matters for SREs.",
+                    "url": "https://thenewstack.io/amazon-ecs-auto-repair/"
+                },
+                {
+                    "document_index": 50,
+                    "title": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
+                    "url": "https://thenewstack.io/torvalds-claude-code-kernel/"
+                },
+                {
+                    "document_index": 69,
+                    "title": "When AI agent traces become application data",
+                    "url": "https://thenewstack.io/agent-traces-application-data/"
+                },
+                {
+                    "document_index": 94,
+                    "title": "DeepSeek V4.1-Flash-1017 vs. Claude Haiku 5.5: More accurate at a fraction of the price",
+                    "url": "https://thenewstack.io/deepseek-flash-haiku-test/"
+                },
+                {
+                    "document_index": 96,
+                    "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
+                    "url": "https://thenewstack.io/muse-wonder-claude-fable/"
+                },
+                {
+                    "document_index": 267,
+                    "title": "AI Archives",
+                    "url": "https://thenewstack.io/ai/"
+                },
+                {
+                    "document_index": 454,
+                    "title": "Best Wireless Earbuds For 2026",
+                    "url": "https://www.engadget.com/audio/headphones/best-wireless-earbuds-120058222.html"
+                },
+                {
+                    "document_index": 575,
+                    "title": "AI coding agents generate more code, but not more software - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+                },
+                {
+                    "document_index": 647,
+                    "title": "OpenAI says planned GPT-6.1 is too insecure to release - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+                }
+            ]
+        },
+        "prediction": {
+            "document_count": 7,
+            "documents": [
+                {
+                    "document_index": 82,
+                    "title": "Personalization is a ranking problem — architecture makes it work",
+                    "url": "https://thenewstack.io/vespa-realtime-personalization-ranking/"
+                },
+                {
+                    "document_index": 178,
+                    "title": "Platform Engineering Won’t Kill the DevOps Star",
+                    "url": "https://thenewstack.io/platform-engineering-wont-kill-the-devops-star/"
+                },
+                {
+                    "document_index": 377,
+                    "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+                    "url": "https://arstechnica.com/"
+                },
+                {
+                    "document_index": 401,
+                    "title": "Category: Policy - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/"
+                },
+                {
+                    "document_index": 414,
+                    "title": "Category: Features - Ars Technica",
+                    "url": "https://arstechnica.com/features/"
+                },
+                {
+                    "document_index": 474,
+                    "title": "Disney found a way to buy Character.AI without buying its lawsuits - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
+                },
+                {
+                    "document_index": 623,
+                    "title": "AI promises productivity, but for managers, it's mostly a headache for now | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
+                }
+            ]
+        },
+        "artificial intelligence": {
+            "document_count": 55,
+            "documents": [
+                {
+                    "document_index": 8,
+                    "title": "Inside Wikipedia’s Cleanup Effort Against AI Text",
+                    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+                },
+                {
+                    "document_index": 10,
+                    "title": "Should We Worry About the Welfare of AI Models?",
+                    "url": "https://spectrum.ieee.org/ai-model-welfare"
+                },
+                {
+                    "document_index": 12,
+                    "title": "Philosopher at Google DeepMind Rethinks How We Relate to Generative AI",
+                    "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin"
+                },
+                {
+                    "document_index": 42,
+                    "title": "Can AI's Intelligence Be Measured Like Human IQ?",
+                    "url": "https://spectrum.ieee.org/agi-benchmark"
+                },
+                {
+                    "document_index": 46,
+                    "title": "6 Guidelines for Governing AI",
+                    "url": "https://spectrum.ieee.org/6-guidelines-governing-ai"
+                },
+                {
+                    "document_index": 48,
+                    "title": "Humans in the Loop—Or Just \"Meat Tools\" for AI Agents?",
+                    "url": "https://spectrum.ieee.org/agentic-ai-humans-in-loop"
+                },
+                {
+                    "document_index": 183,
+                    "title": "Introduction to Frontend Development",
+                    "url": "https://thenewstack.io/introduction-to-frontend-development/"
+                },
+                {
+                    "document_index": 196,
+                    "title": "Introduction to DevOps",
+                    "url": "https://thenewstack.io/introduction-to-devops/"
+                },
+                {
+                    "document_index": 204,
+                    "title": "Why the era of relying on dozens of \"purpose-built\" databases is finally coming to an end",
+                    "url": "https://thenewstack.io/unified-data-platform-strategy/"
+                },
+                {
+                    "document_index": 205,
+                    "title": "TiDB and the rise of the AI-native database",
+                    "url": "https://thenewstack.io/tidb-and-the-rise-of-the-ai-native-database/"
+                },
+                {
+                    "document_index": 207,
+                    "title": "Introduction to Databases",
+                    "url": "https://thenewstack.io/introduction-to-databases/"
+                },
+                {
+                    "document_index": 212,
+                    "title": "Infrastructure as Code: Introduction to IaC",
+                    "url": "https://thenewstack.io/introduction-to-infrastructure-as-code/"
+                },
+                {
+                    "document_index": 216,
+                    "title": "Infrastructure From Code: What Went Wrong",
+                    "url": "https://thenewstack.io/infrastructure-from-code-what-went-wrong/"
+                },
+                {
+                    "document_index": 246,
+                    "title": "Aerospace News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/aerospace/"
+                },
+                {
+                    "document_index": 248,
+                    "title": "AI News & Articles - Artificial Intelligence Updates",
+                    "url": "https://spectrum.ieee.org/topic/artificial-intelligence/"
+                },
+                {
+                    "document_index": 250,
+                    "title": "Biomedical News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/biomedical/"
+                },
+                {
+                    "document_index": 256,
+                    "title": "Consumer Electronics News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/consumer-electronics/"
+                },
+                {
+                    "document_index": 261,
+                    "title": "Open Source Archives",
+                    "url": "https://thenewstack.io/open-source/"
+                },
+                {
+                    "document_index": 267,
+                    "title": "AI Archives",
+                    "url": "https://thenewstack.io/ai/"
+                },
+                {
+                    "document_index": 269,
+                    "title": "AI Engineering Archives",
+                    "url": "https://thenewstack.io/ai-engineering/"
+                },
+                {
+                    "document_index": 270,
+                    "title": "Feature Articles on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/feature/"
+                },
+                {
+                    "document_index": 272,
+                    "title": "The Latest News on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/news/"
+                },
+                {
+                    "document_index": 276,
+                    "title": "Tech Careers News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/careers/"
+                },
+                {
+                    "document_index": 279,
+                    "title": "Large Language Models Archives",
+                    "url": "https://thenewstack.io/llm/"
+                },
+                {
+                    "document_index": 288,
+                    "title": "Explainers on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/explainer/"
+                },
+                {
+                    "document_index": 295,
+                    "title": "Kubernetes Archives",
+                    "url": "https://thenewstack.io/kubernetes/"
+                },
+                {
+                    "document_index": 310,
+                    "title": "Tech Interviews on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/interview/"
+                },
+                {
+                    "document_index": 343,
+                    "title": "Amanda Caswell",
+                    "url": "https://thenewstack.io/author/amanda-caswell/"
+                },
+                {
+                    "document_index": 376,
+                    "title": "TechCrunch Disrupt 2026 | TechCrunch",
+                    "url": "https://techcrunch.com/events/techcrunch-disrupt/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=ticketsales&promo=topbanner_rbplusbogo&display="
+                },
+                {
+                    "document_index": 397,
+                    "title": "AI News & Artificial Intelligence | TechCrunch",
+                    "url": "https://techcrunch.com/category/artificial-intelligence/"
+                },
+                {
+                    "document_index": 483,
+                    "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
+                },
+                {
+                    "document_index": 492,
+                    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax” - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+                },
+                {
+                    "document_index": 506,
+                    "title": "Generative AI news and analysis | TechCrunch",
+                    "url": "https://techcrunch.com/tag/generative-ai/"
+                },
+                {
+                    "document_index": 529,
+                    "title": "AI Policy - Engadget",
+                    "url": "https://www.engadget.com/ai-policy/"
+                },
+                {
+                    "document_index": 545,
+                    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+                },
+                {
+                    "document_index": 548,
+                    "title": "Lucas Ropek, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/lucas-ropek/"
+                },
+                {
+                    "document_index": 560,
+                    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’ | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+                },
+                {
+                    "document_index": 563,
+                    "title": "Rebecca Bellan, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/rebecca-bellan/"
+                },
+                {
+                    "document_index": 571,
+                    "title": "Uber puts all 30,000 employees on ChatGPT Work | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+                },
+                {
+                    "document_index": 578,
+                    "title": "AI disqualification yields new Nikon Small World in Motion winner - Ars Technica",
+                    "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
+                },
+                {
+                    "document_index": 590,
+                    "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/"
+                },
+                {
+                    "document_index": 593,
+                    "title": "Mistral says \"Le Chonk\" can challenge the best AI models - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
+                },
+                {
+                    "document_index": 594,
+                    "title": "FTC Subpoenas OpenAI And Anthropic Following Safety Failures",
+                    "url": "https://www.engadget.com/2288104/ftc-subpoenas-open-ai-and-anthropic-following-safety-failures/"
+                },
+                {
+                    "document_index": 598,
+                    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
+                },
+                {
+                    "document_index": 620,
+                    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+                },
+                {
+                    "document_index": 626,
+                    "title": "With most information hidden, the game Stratego had stumped AI—until now - Ars Technica",
+                    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+                },
+                {
+                    "document_index": 627,
+                    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+                },
+                {
+                    "document_index": 630,
+                    "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise - Ars Technica",
+                    "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/"
+                },
+                {
+                    "document_index": 632,
+                    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
+                },
+                {
+                    "document_index": 633,
+                    "title": "SpaceX's AI business is beating expectations | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
+                },
+                {
+                    "document_index": 634,
+                    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/"
+                },
+                {
+                    "document_index": 639,
+                    "title": "AI News & Artificial Intelligence | Page 2 of 530 | TechCrunch",
+                    "url": "https://techcrunch.com/category/artificial-intelligence/page/2/"
+                },
+                {
+                    "document_index": 648,
+                    "title": "Tesla starts Optimus robot production in California as profit falls 43% | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+                },
+                {
+                    "document_index": 669,
+                    "title": "A comprehensive list of 2025 tech layoffs | TechCrunch",
+                    "url": "https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/"
+                },
+                {
+                    "document_index": 670,
+                    "title": "ChatGPT: Everything you need to know about the AI chatbot",
+                    "url": "https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/"
+                }
+            ]
+        },
+        "AI": {
+            "document_count": 467,
+            "documents": [
+                {
+                    "document_index": 2,
+                    "title": "AI Is Redefining the Concept of a Programming Language's Popularity",
+                    "url": "https://spectrum.ieee.org/top-programming-languages"
+                },
+                {
+                    "document_index": 3,
+                    "title": "Scale isn't one number: three ways a Kubernetes control plane runs out of room",
+                    "url": "https://thenewstack.io/scaling-kubernetes-control-planes/"
+                },
+                {
+                    "document_index": 4,
+                    "title": "Why Engineers Should Brave Capitol Hill",
+                    "url": "https://spectrum.ieee.org/engineers-lobbying-congress"
+                },
+                {
+                    "document_index": 5,
+                    "title": "What Kubernetes’ \"monolith\" lesson means for AI agent harnesses",
+                    "url": "https://thenewstack.io/kubecon-agent-harness-koordinator/"
+                },
+                {
+                    "document_index": 7,
+                    "title": "OpenTelemetry and Prometheus are getting along. What’s still missing?",
+                    "url": "https://thenewstack.io/opentelemetry-prometheus-observability-interoperability/"
+                },
+                {
+                    "document_index": 8,
+                    "title": "Inside Wikipedia’s Cleanup Effort Against AI Text",
+                    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+                },
+                {
+                    "document_index": 9,
+                    "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
+                    "url": "https://thenewstack.io/kubecon-kubernetes-updates-security/"
+                },
+                {
+                    "document_index": 10,
+                    "title": "Should We Worry About the Welfare of AI Models?",
+                    "url": "https://spectrum.ieee.org/ai-model-welfare"
+                },
+                {
+                    "document_index": 12,
+                    "title": "Philosopher at Google DeepMind Rethinks How We Relate to Generative AI",
+                    "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin"
+                },
+                {
+                    "document_index": 14,
+                    "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+                    "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent"
+                },
+                {
+                    "document_index": 16,
+                    "title": "Master AI Chip Principles With New IEEE Design Program",
+                    "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee"
+                },
+                {
+                    "document_index": 17,
+                    "title": "Your container runs. Everything around it shouldn't be your problem.",
+                    "url": "https://thenewstack.io/amazon-ecs-express-mode/"
+                },
+                {
+                    "document_index": 19,
+                    "title": "Your database decision could come back to haunt you",
+                    "url": "https://thenewstack.io/ai-prototypes-database-replatforming/"
+                },
+                {
+                    "document_index": 21,
+                    "title": "You can outgrow vanilla Postgres without abandoning Postgres",
+                    "url": "https://thenewstack.io/postgres-at-scale-why-it-struggles/"
+                },
+                {
+                    "document_index": 22,
+                    "title": "Are Emotion Reading Robots Still Missing What Matters Most?",
+                    "url": "https://spectrum.ieee.org/robot-emotions-visual-language-models"
+                },
+                {
+                    "document_index": 23,
+                    "title": "Redis by proxy: Percona targets the last major hurdle to Valkey adoption",
+                    "url": "https://thenewstack.io/valkey-proxy-redis-percona/"
+                },
+                {
+                    "document_index": 24,
+                    "title": "How the MNW Deepfake Benchmark Keeps AI Detectors Up to Date",
+                    "url": "https://spectrum.ieee.org/deepfake-detector-microsoft-generative-ai"
+                },
+                {
+                    "document_index": 25,
+                    "title": "Use Graph RAG when relationships are part of the evidence",
+                    "url": "https://thenewstack.io/when-to-use-graph-rag/"
+                },
+                {
+                    "document_index": 26,
+                    "title": "Optical Fiber Networks Can Keep Rail Networks Safe",
+                    "url": "https://spectrum.ieee.org/distributed-acoustic-sensing-trains-railways"
+                },
+                {
+                    "document_index": 27,
+                    "title": "Your AI agent aced the demo. Your data may still derail it.",
+                    "url": "https://thenewstack.io/ai-agents-production-data/"
+                },
+                {
+                    "document_index": 29,
+                    "title": "Anthropic’s red team ran AI on 15 cheap TV boxes. Then the math got unsettling.",
+                    "url": "https://thenewstack.io/self-replicating-ai-worms/"
+                },
+                {
+                    "document_index": 30,
+                    "title": "Inside ELIZA’s Source Code and Its Multiple Personalities",
+                    "url": "https://spectrum.ieee.org/eliza-chatbot-source-code"
+                },
+                {
+                    "document_index": 31,
+                    "title": "Kubernetes on cgroup v1 is dead. Here’s what comes next.",
+                    "url": "https://thenewstack.io/kubernetes-node-swap-ai/"
+                },
+                {
+                    "document_index": 32,
+                    "title": "AI Steps Into Nuclear Power Plants, and Workers Are Letting It in",
+                    "url": "https://spectrum.ieee.org/ai-assistants-nuclear-power-plant"
+                },
+                {
+                    "document_index": 33,
+                    "title": "Your phone's vector index might be bigger than the AI model running it",
+                    "url": "https://thenewstack.io/google-embeddinggemma-multimodal-search/"
+                },
+                {
+                    "document_index": 35,
+                    "title": "SpaceX designed an orbital Vera Rubin. Radiation comes next.",
+                    "url": "https://thenewstack.io/spacex-nvidia-orbital-ai/"
+                },
+                {
+                    "document_index": 36,
+                    "title": "Reality Is Ruining the Humanoid Robot Hype",
+                    "url": "https://spectrum.ieee.org/humanoid-robot-scaling"
+                },
+                {
+                    "document_index": 37,
+                    "title": "The API tax: Why AI agents stall without infrastructure context",
+                    "url": "https://thenewstack.io/autonomous-cloud-context-layer/"
+                },
+                {
+                    "document_index": 39,
+                    "title": "Shai-Hulud: Whoever controls your package registry controls your pipeline",
+                    "url": "https://thenewstack.io/shai-hulud-pipeline-security/"
+                },
+                {
+                    "document_index": 41,
+                    "title": "DNS is infrastructure. It’s time to manage it that way.",
+                    "url": "https://thenewstack.io/dns-domain-management-automation/"
+                },
+                {
+                    "document_index": 42,
+                    "title": "Can AI's Intelligence Be Measured Like Human IQ?",
+                    "url": "https://spectrum.ieee.org/agi-benchmark"
+                },
+                {
+                    "document_index": 44,
+                    "title": "How Darth Vader Taught Me Card Counting and AI Security Got Weird",
+                    "url": "https://spectrum.ieee.org/jailbreaking-llms"
+                },
+                {
+                    "document_index": 46,
+                    "title": "6 Guidelines for Governing AI",
+                    "url": "https://spectrum.ieee.org/6-guidelines-governing-ai"
+                },
+                {
+                    "document_index": 47,
+                    "title": "A few engineers asked IT for Linux. Then it spread to 200 machines.",
+                    "url": "https://thenewstack.io/linux-developer-device-management/"
+                },
+                {
+                    "document_index": 48,
+                    "title": "Humans in the Loop—Or Just \"Meat Tools\" for AI Agents?",
+                    "url": "https://spectrum.ieee.org/agentic-ai-humans-in-loop"
+                },
+                {
+                    "document_index": 49,
+                    "title": "His scanner wouldn’t work on Linux — so he let Claude study the Windows driver",
+                    "url": "https://thenewstack.io/claude-code-linux-driver/"
+                },
+                {
+                    "document_index": 50,
+                    "title": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
+                    "url": "https://thenewstack.io/torvalds-claude-code-kernel/"
+                },
+                {
+                    "document_index": 52,
+                    "title": "Linux creator Linus Torvalds tells AI haters to walk away from Linux, or go fork it",
+                    "url": "https://thenewstack.io/torvalds-linux-ai-stance/"
+                },
+                {
+                    "document_index": 53,
+                    "title": "Building scalable, agent-friendly APIs for AI applications",
+                    "url": "https://thenewstack.io/building-agent-friendly-apis/"
+                },
+                {
+                    "document_index": 54,
+                    "title": "Your merge gate was a compromise. Coding agents are making it a liability.",
+                    "url": "https://thenewstack.io/merge-gate-coding-agents/"
+                },
+                {
+                    "document_index": 55,
+                    "title": "Tetrate launches open source marketplace to simplify Envoy adoption",
+                    "url": "https://thenewstack.io/tetrate-built-on-envoy/"
+                },
+                {
+                    "document_index": 58,
+                    "title": "PHP2Shell was only the beginning: AI is accelerating the patch race",
+                    "url": "https://thenewstack.io/php2shell-ai-patch-race/"
+                },
+                {
+                    "document_index": 59,
+                    "title": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation",
+                    "url": "https://thenewstack.io/openai-donates-open-responses/"
+                },
+                {
+                    "document_index": 60,
+                    "title": "AI found a critical PHP flaw. The bigger failure began in 2024.",
+                    "url": "https://thenewstack.io/php2shell-chainguard-embargo-dispute/"
+                },
+                {
+                    "document_index": 61,
+                    "title": "PHP’s security scramble is just a preview: AI is digging up flaws faster than maintainers can fix them",
+                    "url": "https://thenewstack.io/php2shell-ai-vulnerabilities-maintainers/"
+                },
+                {
+                    "document_index": 62,
+                    "title": "AI found flaws in the code behind 70% of the web. The fix took two months.",
+                    "url": "https://thenewstack.io/ai-php2shell-disclosure-framework/"
+                },
+                {
+                    "document_index": 65,
+                    "title": "What happens when your VPN meets 200 AI agents",
+                    "url": "https://thenewstack.io/unified-access-ai-agents/"
+                },
+                {
+                    "document_index": 66,
+                    "title": "Cloudflare wants to build the economic layer of the AI web",
+                    "url": "https://thenewstack.io/cloudflare-ai-web-economics/"
+                },
+                {
+                    "document_index": 67,
+                    "title": "AI data lakes are driving new storage demands",
+                    "url": "https://thenewstack.io/ai-data-lakes-storage/"
+                },
+                {
+                    "document_index": 69,
+                    "title": "When AI agent traces become application data",
+                    "url": "https://thenewstack.io/agent-traces-application-data/"
+                },
+                {
+                    "document_index": 72,
+                    "title": "Microsoft’s new voice AI can start working out what you want before you finish speaking",
+                    "url": "https://thenewstack.io/microsoft-streaming-speech-models/"
+                },
+                {
+                    "document_index": 73,
+                    "title": "Five AI agent harnesses took the same memory test. The results weren't even close.",
+                    "url": "https://thenewstack.io/letta-frontiermemory-agent-harness-benchmark/"
+                },
+                {
+                    "document_index": 74,
+                    "title": "Ramp built an AI agent harness in six weeks — and LangChain's CEO says it's part of a bigger shift",
+                    "url": "https://thenewstack.io/ramp-laminar-agent-harness/"
+                },
+                {
+                    "document_index": 75,
+                    "title": "OpenAI’s COBOL migration score has made a striking leap",
+                    "url": "https://thenewstack.io/penai-cobol-migration-benchmark/"
+                },
+                {
+                    "document_index": 76,
+                    "title": "AI sped up coding. Sonar instills confidence with verification.",
+                    "url": "https://thenewstack.io/ai-coding-verification-loops/"
+                },
+                {
+                    "document_index": 77,
+                    "title": "Vercel sets a deadline for vendors to move beyond long-lived keys",
+                    "url": "https://thenewstack.io/vercel-oidc-static-credentials/"
+                },
+                {
+                    "document_index": 78,
+                    "title": "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.",
+                    "url": "https://thenewstack.io/decision-models-system-one/"
+                },
+                {
+                    "document_index": 79,
+                    "title": "AI agents speed up development — data access slows them down",
+                    "url": "https://thenewstack.io/unified-api-layer-agents/"
+                },
+                {
+                    "document_index": 80,
+                    "title": "MCP gets AI agents into your APIs. It doesn't decide what they should see.",
+                    "url": "https://thenewstack.io/mcp-ai-agents-api/"
+                },
+                {
+                    "document_index": 83,
+                    "title": "Can prompt caching tame RAG costs without sacrificing accuracy?",
+                    "url": "https://thenewstack.io/production-rag-architecture-fixes/"
+                },
+                {
+                    "document_index": 85,
+                    "title": "Only 34% trust synthetic data's referential integrity — and it’s holding adoption back",
+                    "url": "https://thenewstack.io/synthetic-data-referential-integrity/"
+                },
+                {
+                    "document_index": 87,
+                    "title": "OpenSearch veterans launch Infino. Here's why it matters for agent builders.",
+                    "url": "https://thenewstack.io/infino-agent-retrieval-layer/"
+                },
+                {
+                    "document_index": 88,
+                    "title": "SAP acquires TechWolf to feed more context into its HR agents",
+                    "url": "https://thenewstack.io/sap-acquires-techwolf-skills/"
+                },
+                {
+                    "document_index": 89,
+                    "title": "Runway wants to generate software as you use it. Solaris is its first step.",
+                    "url": "https://thenewstack.io/runway-solaris-generated-interfaces/"
+                },
+                {
+                    "document_index": 90,
+                    "title": "Astro's GitHub issue backlog is heading to zero for the first time in 5 years. Now Cloudflare is open-sourcing the tool that did it.",
+                    "url": "https://thenewstack.io/cloudflare-astro-triage-bot/"
+                },
+                {
+                    "document_index": 92,
+                    "title": "Anthropic overhauled Claude Design to fix the handoff. A designer and an engineer disagree on whether it worked.",
+                    "url": "https://thenewstack.io/anthropic-claude-design-overhaul/"
+                },
+                {
+                    "document_index": 93,
+                    "title": "Google wants to make the web agent-ready",
+                    "url": "https://thenewstack.io/google-agent-ready-web/"
+                },
+                {
+                    "document_index": 97,
+                    "title": "“Developers are paying frontier prices for amnesia”: Uvi wants to stop the agent relearning brain drain",
+                    "url": "https://thenewstack.io/uvi-ai-agent-context/"
+                },
+                {
+                    "document_index": 98,
+                    "title": "Scripted tests can't keep up with AI-written code. Datadog is betting agents can.",
+                    "url": "https://thenewstack.io/datadog-propolis-agentic-testing/"
+                },
+                {
+                    "document_index": 99,
+                    "title": "How to review AI code without reading the code",
+                    "url": "https://thenewstack.io/review-decisions-not-code/"
+                },
+                {
+                    "document_index": 100,
+                    "title": "AI’s Midas problem: When code is free, features are worthless",
+                    "url": "https://thenewstack.io/ai-commoditizes-software-value/"
+                },
+                {
+                    "document_index": 101,
+                    "title": "Edge-forward: Akamai eyes sweet spot between centralized & decentralized AI inference",
+                    "url": "https://thenewstack.io/akamai-edge-ai-inference/"
+                },
+                {
+                    "document_index": 103,
+                    "title": "WebAssembly could solve AI agents' most dangerous security gap",
+                    "url": "https://thenewstack.io/webassembly-sandboxing-ai-agents/"
+                },
+                {
+                    "document_index": 106,
+                    "title": "Who on-calls an AI? This is the unresolved crisis of agent ownership",
+                    "url": "https://thenewstack.io/production-ai-agent-ownership/"
+                },
+                {
+                    "document_index": 107,
+                    "title": "From feral to fiduciary: making AI agents serve your interests",
+                    "url": "https://thenewstack.io/ai-agent-trust-score/"
+                },
+                {
+                    "document_index": 108,
+                    "title": "Your Kubernetes dashboard is green. Your users are seeing red.",
+                    "url": "https://thenewstack.io/kubernetes-hidden-latency-telemetry/"
+                },
+                {
+                    "document_index": 109,
+                    "title": "Most AI incident tools still leave a key decision to humans",
+                    "url": "https://thenewstack.io/ai-sre-agent-autonomy-phases/"
+                },
+                {
+                    "document_index": 110,
+                    "title": "What it takes to become an AI company: Four lessons from the top",
+                    "url": "https://thenewstack.io/becoming-an-ai-company/"
+                },
+                {
+                    "document_index": 111,
+                    "title": "Hackers hijacked 1,900 GitHub accounts. Then they went after 30,000 repos.",
+                    "url": "https://thenewstack.io/ghostaction-github-actions-attack/"
+                },
+                {
+                    "document_index": 112,
+                    "title": "Anthropic built its own git replacement for AI-scale coding. But you can’t have it.",
+                    "url": "https://thenewstack.io/anthropic-scion-git-replacement/"
+                },
+                {
+                    "document_index": 113,
+                    "title": "66% of billion-dollar companies leave critical bugs unpatched — the part the AI bug-hunting hype leaves out",
+                    "url": "https://thenewstack.io/chainguard-mythos-security-harness/"
+                },
+                {
+                    "document_index": 116,
+                    "title": "AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex",
+                    "url": "https://thenewstack.io/aws-strands-harness-agent/"
+                },
+                {
+                    "document_index": 118,
+                    "title": "Harness bought Augment’s coding agents to show them what happens after the merge",
+                    "url": "https://thenewstack.io/harness-augment-cosmos-acquisition/"
+                },
+                {
+                    "document_index": 119,
+                    "title": "AI changed how you respond to incidents. Your tabletops haven't caught up.",
+                    "url": "https://thenewstack.io/ai-incident-response-tabletops/"
+                },
+                {
+                    "document_index": 120,
+                    "title": "OpenSSH 10.6 deliberately breaks two features in the name of security",
+                    "url": "https://thenewstack.io/openssh-breaks-compression-usernames/"
+                },
+                {
+                    "document_index": 121,
+                    "title": "AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan.",
+                    "url": "https://thenewstack.io/kubernetes-agentic-ai-inference/"
+                },
+                {
+                    "document_index": 122,
+                    "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
+                    "url": "https://thenewstack.io/ai-agents-kubernetes-control/"
+                },
+                {
+                    "document_index": 124,
+                    "title": "How to turn AI production feedback into better agents",
+                    "url": "https://thenewstack.io/ai-agent-evaluation-loop/"
+                },
+                {
+                    "document_index": 125,
+                    "title": "Dynatrace wants its AI agents to fix problems instead of adding alerts",
+                    "url": "https://thenewstack.io/dynatrace-arize-ai-observability/"
+                },
+                {
+                    "document_index": 126,
+                    "title": "MiniMax just halved its token prices. Your AI agent bill may not follow.",
+                    "url": "https://thenewstack.io/minimax-flash-agent-costs/"
+                },
+                {
+                    "document_index": 129,
+                    "title": "AI has lowered the barrier to building. Here's what that means for engineers.",
+                    "url": "https://thenewstack.io/ai-lowering-building-barrier/"
+                },
+                {
+                    "document_index": 130,
+                    "title": "AI agents turn one request into about 20. Kubernetes is evolving to handle it.",
+                    "url": "https://thenewstack.io/kagent-kubernetes-ai-agents/"
+                },
+                {
+                    "document_index": 131,
+                    "title": "Open source USearch library jumpstarts ScyllaDB vector search",
+                    "url": "https://thenewstack.io/open-source-usearch-library-jumpstarts-scylladb-vector-search/"
+                },
+                {
+                    "document_index": 132,
+                    "title": "AWS WAF vs. Google Cloud Armor: A Multicloud Security Showdown",
+                    "url": "https://thenewstack.io/aws-waf-vs-google-cloud-armor-a-multicloud-security-showdown/"
+                },
+                {
+                    "document_index": 133,
+                    "title": "Goodbye Dashboards: Agents Deliver Answers, Not Just Reports",
+                    "url": "https://thenewstack.io/goodbye-dashboards-agents-deliver-answers-not-just-reports/"
+                },
+                {
+                    "document_index": 134,
+                    "title": "Rust vs. C++: a Modern Take on Performance and Safety",
+                    "url": "https://thenewstack.io/rust-vs-c-a-modern-take-on-performance-and-safety/"
+                },
+                {
+                    "document_index": 135,
+                    "title": "Building a Real-Time System Monitor in Rust Terminal",
+                    "url": "https://thenewstack.io/building-a-real-time-system-monitor-in-rust-terminal/"
+                },
+                {
+                    "document_index": 136,
+                    "title": "Google and AWS open new paths for PyTorch beyond Nvidia",
+                    "url": "https://thenewstack.io/pytorch-tpu-trainium-migration/"
+                },
+                {
+                    "document_index": 138,
+                    "title": "DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too.",
+                    "url": "https://thenewstack.io/deepseek-web-search-api/"
+                },
+                {
+                    "document_index": 139,
+                    "title": "Code that passes every test can still break the next AI agent that touches it",
+                    "url": "https://thenewstack.io/go-language-ai-agents/"
+                },
+                {
+                    "document_index": 140,
+                    "title": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag",
+                    "url": "https://thenewstack.io/microsoft-agent-framework-go/"
+                },
+                {
+                    "document_index": 141,
+                    "title": "Go Experts: 'I Don't Want to Maintain AI-Generated Code'",
+                    "url": "https://thenewstack.io/go-experts-i-dont-want-to-maintain-ai-generated-code/"
+                },
+                {
+                    "document_index": 144,
+                    "title": "How a forgotten node can put Oracle Java back in production",
+                    "url": "https://thenewstack.io/azul-ai-assistant-java-risk/"
+                },
+                {
+                    "document_index": 145,
+                    "title": "Azul wants to find your unpatched JVMs before AI does",
+                    "url": "https://thenewstack.io/azul-java-security-jvm-mythos/"
+                },
+                {
+                    "document_index": 146,
+                    "title": "Chainguard targets Java's unpatched vulnerability backlog with drop-in remediated libraries",
+                    "url": "https://thenewstack.io/chainguard-java-libraries-spring-boot-cves/"
+                },
+                {
+                    "document_index": 147,
+                    "title": "Transform your AI coding agent into a deterministic Java Spring expert",
+                    "url": "https://thenewstack.io/deterministic-ai-spring-upgrades/"
+                },
+                {
+                    "document_index": 148,
+                    "title": "Spring is 23 years old. AI just made it a security emergency.",
+                    "url": "https://thenewstack.io/broadcom-spring-java-cve-security-ai/"
+                },
+                {
+                    "document_index": 149,
+                    "title": "Employees are vibe-coding their own apps. Cloudflare open-sources Void to give IT a handle on them",
+                    "url": "https://thenewstack.io/cloudflare-voidzero-void-vibe-coding/"
+                },
+                {
+                    "document_index": 150,
+                    "title": "Cloudflare acquires Node.js creator’s startup that copied its serverless playbook",
+                    "url": "https://thenewstack.io/cloudflare-acquires-deno-ryan-dahl/"
+                },
+                {
+                    "document_index": 151,
+                    "title": "Cloudflare aqui-hires VoidZero: Did a piece of the open web just stabilize, or become more brittle?",
+                    "url": "https://thenewstack.io/cloudflare-voidzero-acquisition-vite/"
+                },
+                {
+                    "document_index": 152,
+                    "title": "\"Real maturity problems\": Not every developer is thrilled with Bun after Anthropic acquisition",
+                    "url": "https://thenewstack.io/bun-developers-complaints-anthropic/"
+                },
+                {
+                    "document_index": 154,
+                    "title": "GitHub and Anthropic used their own agents for major Rust rewrites -- but with very different playbooks",
+                    "url": "https://thenewstack.io/github-copilot-anthropic-rust-migration/"
+                },
+                {
+                    "document_index": 155,
+                    "title": "JetBrains kills Kotlin Notebook months after Microsoft's Polyglot exit. But Jupyter is doing just fine.",
+                    "url": "https://thenewstack.io/kotlin-notebook-jupyter-python-retreat/"
+                },
+                {
+                    "document_index": 156,
+                    "title": "Trust in Rust: Foundation debuts official training to tackle steep learning curve",
+                    "url": "https://thenewstack.io/rust-foundation-training-certification/"
+                },
+                {
+                    "document_index": 157,
+                    "title": "Who will maintain the web when PHP's veterans retire?",
+                    "url": "https://thenewstack.io/php-web-skills-hiring-age/"
+                },
+                {
+                    "document_index": 158,
+                    "title": "Will AI force code to evolve or make it extinct?",
+                    "url": "https://thenewstack.io/ai-programming-languages-future/"
+                },
+                {
+                    "document_index": 160,
+                    "title": "Stop AI code sprawl before it destroys your software design",
+                    "url": "https://thenewstack.io/stop-ai-code-sprawl/"
+                },
+                {
+                    "document_index": 161,
+                    "title": "Why basic RAG fails at multi-hop reasoning (and how GraphRAG fixes it)",
+                    "url": "https://thenewstack.io/graphrag-multi-hop-reasoning-python/"
+                },
+                {
+                    "document_index": 162,
+                    "title": "Nvidia's NOOA makes an agent one Python class",
+                    "url": "https://thenewstack.io/nvidia-nooa-agent-framework/"
+                },
+                {
+                    "document_index": 163,
+                    "title": "Spark 4.2 has a feature that could retire your vector database",
+                    "url": "https://thenewstack.io/spark-4-2-ai-workloads/"
+                },
+                {
+                    "document_index": 164,
+                    "title": "Respan spent two years building on LiteLLM. One upgrade made it start over.",
+                    "url": "https://thenewstack.io/respan-rust-ai-gateway/"
+                },
+                {
+                    "document_index": 165,
+                    "title": "“We are not forking TypeScript”: Cloudflare spearheads Rust port written by agents, for agents",
+                    "url": "https://thenewstack.io/cloudflare-rust-typescript-tsrs/"
+                },
+                {
+                    "document_index": 166,
+                    "title": "How AWS Lambda logs every flow across thousands of microVMs per host with eBPF and Rust",
+                    "url": "https://thenewstack.io/aws-lambda-ebpf-rust/"
+                },
+                {
+                    "document_index": 167,
+                    "title": "AI-generated Rust compiles perfectly. That's the scary part.",
+                    "url": "https://thenewstack.io/canonical-c-rust-apparmor/"
+                },
+                {
+                    "document_index": 169,
+                    "title": "Mastra empowers web devs to build AI agents in TypeScript",
+                    "url": "https://thenewstack.io/mastra-empowers-web-devs-to-build-ai-agents-in-typescript/"
+                },
+                {
+                    "document_index": 170,
+                    "title": "Inferno Vet Creates Frontend Framework Built With AI in Mind",
+                    "url": "https://thenewstack.io/inferno-vet-creates-frontend-framework-built-with-ai-in-mind/"
+                },
+                {
+                    "document_index": 171,
+                    "title": "AI agent security is a lifecycle — not a gatekeeper",
+                    "url": "https://thenewstack.io/ai-agent-security-lifecycle/"
+                },
+                {
+                    "document_index": 172,
+                    "title": "OpenAI launches GPT-6 Astra and says welcome to the \"AGI era\"",
+                    "url": "https://thenewstack.io/openai-gpt6-astra-benchmarks/"
+                },
+                {
+                    "document_index": 173,
+                    "title": "“Everyone's in a race to replace GitHub\": Zed launches Delta because agents made pull requests obsolete",
+                    "url": "https://thenewstack.io/zed-delta-github-alternative/"
+                },
+                {
+                    "document_index": 174,
+                    "title": "Jensen Huang says the junior developer problem ends in two years. Here's his math.",
+                    "url": "https://thenewstack.io/huang-ai-agents-engineers/"
+                },
+                {
+                    "document_index": 181,
+                    "title": "In 2026, AI Is Merging With Platform Engineering. Are You Ready?",
+                    "url": "https://thenewstack.io/in-2026-ai-is-merging-with-platform-engineering-are-you-ready/"
+                },
+                {
+                    "document_index": 182,
+                    "title": "Caught in the Middle: The New Role of Platform Teams",
+                    "url": "https://thenewstack.io/caught-in-the-middle-the-new-role-of-platform-teams/"
+                },
+                {
+                    "document_index": 183,
+                    "title": "Introduction to Frontend Development",
+                    "url": "https://thenewstack.io/introduction-to-frontend-development/"
+                },
+                {
+                    "document_index": 185,
+                    "title": "The React Framework Face-Off: Which One Owns the Future?",
+                    "url": "https://thenewstack.io/the-react-framework-face-off-which-one-owns-the-future/"
+                },
+                {
+                    "document_index": 187,
+                    "title": "Trends That Defined JavaScript in 2025",
+                    "url": "https://thenewstack.io/trends-that-defined-javascript-in-2025/"
+                },
+                {
+                    "document_index": 192,
+                    "title": "Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care",
+                    "url": "https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/"
+                },
+                {
+                    "document_index": 193,
+                    "title": "DevOps Is Still Waiting for Its Cursor Moment",
+                    "url": "https://thenewstack.io/devops-is-still-waiting-for-its-cursor-moment/"
+                },
+                {
+                    "document_index": 196,
+                    "title": "Introduction to DevOps",
+                    "url": "https://thenewstack.io/introduction-to-devops/"
+                },
+                {
+                    "document_index": 199,
+                    "title": "After becoming cloud computing’s telemetry standard, OpenTelemetry graduates into the AI infrastructure era",
+                    "url": "https://thenewstack.io/opentelemetry-hits-general-availability/"
+                },
+                {
+                    "document_index": 202,
+                    "title": "Why developers are betting on Postgres for AI",
+                    "url": "https://thenewstack.io/postgres-ai-ground-truth/"
+                },
+                {
+                    "document_index": 203,
+                    "title": "Why the \"bible\" of data systems is getting a massive rewrite for 2026",
+                    "url": "https://thenewstack.io/data-intensive-applications-rewrite-2026/"
+                },
+                {
+                    "document_index": 204,
+                    "title": "Why the era of relying on dozens of \"purpose-built\" databases is finally coming to an end",
+                    "url": "https://thenewstack.io/unified-data-platform-strategy/"
+                },
+                {
+                    "document_index": 205,
+                    "title": "TiDB and the rise of the AI-native database",
+                    "url": "https://thenewstack.io/tidb-and-the-rise-of-the-ai-native-database/"
+                },
+                {
+                    "document_index": 206,
+                    "title": "SQL, NoSQL and Vectors, Oh My!",
+                    "url": "https://thenewstack.io/sql-nosql-and-vectors-oh-my/"
+                },
+                {
+                    "document_index": 207,
+                    "title": "Introduction to Databases",
+                    "url": "https://thenewstack.io/introduction-to-databases/"
+                },
+                {
+                    "document_index": 208,
+                    "title": "Backend Development in 2026: What's Changed, What Matters, and What to Learn Next",
+                    "url": "https://thenewstack.io/introduction-to-backend-development/"
+                },
+                {
+                    "document_index": 209,
+                    "title": "Memory-Safe Jule language emerges as C/C++ alternative",
+                    "url": "https://thenewstack.io/jule-open-source-programming-language/"
+                },
+                {
+                    "document_index": 210,
+                    "title": "In the AI age, Java is more relevant than ever",
+                    "url": "https://thenewstack.io/in-the-ai-age-java-is-more-relevant-than-ever/"
+                },
+                {
+                    "document_index": 212,
+                    "title": "Infrastructure as Code: Introduction to IaC",
+                    "url": "https://thenewstack.io/introduction-to-infrastructure-as-code/"
+                },
+                {
+                    "document_index": 214,
+                    "title": "6 IaC Tips for Cloud Practitioners",
+                    "url": "https://thenewstack.io/6-actionable-iac-tips-for-cloud-practitioners-in-2025/"
+                },
+                {
+                    "document_index": 216,
+                    "title": "Infrastructure From Code: What Went Wrong",
+                    "url": "https://thenewstack.io/infrastructure-from-code-what-went-wrong/"
+                },
+                {
+                    "document_index": 221,
+                    "title": "Introduction to API Management",
+                    "url": "https://thenewstack.io/introduction-to-api-management/"
+                },
+                {
+                    "document_index": 222,
+                    "title": "MCP vs. API Gateways: They’re Not Interchangeable",
+                    "url": "https://thenewstack.io/mcp-vs-api-gateways-theyre-not-interchangeable/"
+                },
+                {
+                    "document_index": 223,
+                    "title": "When Is MCP Actually Worth It?",
+                    "url": "https://thenewstack.io/when-is-mcp-actually-worth-it/"
+                },
+                {
+                    "document_index": 224,
+                    "title": "Why Your Legacy APIs Are a Roadblock for AI Agents",
+                    "url": "https://thenewstack.io/why-your-legacy-apis-are-a-roadblock-for-ai-agents/"
+                },
+                {
+                    "document_index": 226,
+                    "title": "Introduction to Containers",
+                    "url": "https://thenewstack.io/introduction-to-containers/"
+                },
+                {
+                    "document_index": 231,
+                    "title": "Google turns the infrastructure behind Gemini’s agents into a cloud service",
+                    "url": "https://thenewstack.io/google-agent-compute-engine/"
+                },
+                {
+                    "document_index": 232,
+                    "title": "Amodei says Anthropic’s safety delay may have cost it an AI lead",
+                    "url": "https://thenewstack.io/anthropic-mythos-safety-pace/"
+                },
+                {
+                    "document_index": 233,
+                    "title": "Nvidia bets open models can give enterprise AI agents the context they’re missing",
+                    "url": "https://thenewstack.io/nvidia-agent-knowledge-foundation/"
+                },
+                {
+                    "document_index": 234,
+                    "title": "Nvidia wants AI factories built in real factories",
+                    "url": "https://thenewstack.io/nvidia-dsx-pod-containers/"
+                },
+                {
+                    "document_index": 235,
+                    "title": "Assess the entire inference stack — not just open model benchmarks",
+                    "url": "https://thenewstack.io/open-model-benchmarks-production/"
+                },
+                {
+                    "document_index": 236,
+                    "title": "DeepSeek open-sources the inference engine behind its API. And Huawei gets equal billing with Nvidia.",
+                    "url": "https://thenewstack.io/deepseek-deepinfer-huawei-nvidia/"
+                },
+                {
+                    "document_index": 237,
+                    "title": "Beam pulls single app windows off the Mac Mini running your agents",
+                    "url": "https://thenewstack.io/beam-mac-mini-agents/"
+                },
+                {
+                    "document_index": 239,
+                    "title": "Anthropic bought Stainless and shuttered its SDK generator. Cloudflare open-sourced Forge instead.",
+                    "url": "https://thenewstack.io/cloudflare-forge-anthropic-stainless/"
+                },
+                {
+                    "document_index": 240,
+                    "title": "Agents have made CI the bottleneck. Faster pipelines are the wrong fix.",
+                    "url": "https://thenewstack.io/ci-bottleneck-agent-verification/"
+                },
+                {
+                    "document_index": 244,
+                    "title": "IEEE Spectrum",
+                    "url": "https://spectrum.ieee.org/"
+                },
+                {
+                    "document_index": 245,
+                    "title": "The New Stack | AI-Native Software Engineering News & Analysis",
+                    "url": "https://thenewstack.io/"
+                },
+                {
+                    "document_index": 246,
+                    "title": "Aerospace News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/aerospace/"
+                },
+                {
+                    "document_index": 248,
+                    "title": "AI News & Articles - Artificial Intelligence Updates",
+                    "url": "https://spectrum.ieee.org/topic/artificial-intelligence/"
+                },
+                {
+                    "document_index": 250,
+                    "title": "Biomedical News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/biomedical/"
+                },
+                {
+                    "document_index": 256,
+                    "title": "Consumer Electronics News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/consumer-electronics/"
+                },
+                {
+                    "document_index": 261,
+                    "title": "Open Source Archives",
+                    "url": "https://thenewstack.io/open-source/"
+                },
+                {
+                    "document_index": 267,
+                    "title": "AI Archives",
+                    "url": "https://thenewstack.io/ai/"
+                },
+                {
+                    "document_index": 269,
+                    "title": "AI Engineering Archives",
+                    "url": "https://thenewstack.io/ai-engineering/"
+                },
+                {
+                    "document_index": 270,
+                    "title": "Feature Articles on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/feature/"
+                },
+                {
+                    "document_index": 272,
+                    "title": "The Latest News on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/news/"
+                },
+                {
+                    "document_index": 276,
+                    "title": "Tech Careers News & Articles",
+                    "url": "https://spectrum.ieee.org/topic/careers/"
+                },
+                {
+                    "document_index": 279,
+                    "title": "Large Language Models Archives",
+                    "url": "https://thenewstack.io/llm/"
+                },
+                {
+                    "document_index": 280,
+                    "title": "Engineering Resources",
+                    "url": "https://spectrum.ieee.org/engineering-resources/"
+                },
+                {
+                    "document_index": 284,
+                    "title": "Special Reports",
+                    "url": "https://spectrum.ieee.org/special-reports/"
+                },
+                {
+                    "document_index": 286,
+                    "title": "Spectrum Collections",
+                    "url": "https://spectrum.ieee.org/collections/"
+                },
+                {
+                    "document_index": 287,
+                    "title": "AI Operations Archives",
+                    "url": "https://thenewstack.io/ai-operations/"
+                },
+                {
+                    "document_index": 288,
+                    "title": "Explainers on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/explainer/"
+                },
+                {
+                    "document_index": 295,
+                    "title": "Kubernetes Archives",
+                    "url": "https://thenewstack.io/kubernetes/"
+                },
+                {
+                    "document_index": 298,
+                    "title": "About Us - IEEE Spectrum",
+                    "url": "https://spectrum.ieee.org/about"
+                },
+                {
+                    "document_index": 299,
+                    "title": "Operations Archives",
+                    "url": "https://thenewstack.io/operations/"
+                },
+                {
+                    "document_index": 302,
+                    "title": "IEEE Spectrum",
+                    "url": "https://spectrum.ieee.org/customfeeds/feed/all-topics/rss"
+                },
+                {
+                    "document_index": 305,
+                    "title": "Developer tools Archives",
+                    "url": "https://thenewstack.io/developer-tools/"
+                },
+                {
+                    "document_index": 308,
+                    "title": "Engineering Resources",
+                    "url": "https://spectrum.ieee.org/type/sponsored/"
+                },
+                {
+                    "document_index": 310,
+                    "title": "Tech Interviews on Science, Technology & Engineering",
+                    "url": "https://spectrum.ieee.org/type/interview/"
+                },
+                {
+                    "document_index": 312,
+                    "title": "Engineering Resources",
+                    "url": "https://spectrum.ieee.org/type/whitepaper/"
+                },
+                {
+                    "document_index": 315,
+                    "title": "Python Archives",
+                    "url": "https://thenewstack.io/python/"
+                },
+                {
+                    "document_index": 323,
+                    "title": "Ebooks",
+                    "url": "https://thenewstack.io/ebooks/"
+                },
+                {
+                    "document_index": 324,
+                    "title": "June 2026 Issue - IEEE Spectrum",
+                    "url": "https://spectrum.ieee.org/magazine/2026/june/"
+                },
+                {
+                    "document_index": 325,
+                    "title": "Events",
+                    "url": "https://thenewstack.io/events/"
+                },
+                {
+                    "document_index": 327,
+                    "title": "Webinars",
+                    "url": "https://thenewstack.io/webinars/"
+                },
+                {
+                    "document_index": 328,
+                    "title": "The Scale Issue",
+                    "url": "https://spectrum.ieee.org/special-reports/scale/"
+                },
+                {
+                    "document_index": 331,
+                    "title": "About / Contact",
+                    "url": "https://thenewstack.io/about-and-contact-info/"
+                },
+                {
+                    "document_index": 335,
+                    "title": "Contributions",
+                    "url": "https://thenewstack.io/contributions/"
+                },
+                {
+                    "document_index": 339,
+                    "title": "Frederic Lardinois",
+                    "url": "https://thenewstack.io/author/frederic-lardinois/"
+                },
+                {
+                    "document_index": 341,
+                    "title": "Paul Sawers",
+                    "url": "https://thenewstack.io/author/paul-sawers/"
+                },
+                {
+                    "document_index": 343,
+                    "title": "Amanda Caswell",
+                    "url": "https://thenewstack.io/author/amanda-caswell/"
+                },
+                {
+                    "document_index": 344,
+                    "title": "Meredith Shubel",
+                    "url": "https://thenewstack.io/author/mshubel/"
+                },
+                {
+                    "document_index": 345,
+                    "title": "Megan Carnegie",
+                    "url": "https://thenewstack.io/author/megan-carnegie/"
+                },
+                {
+                    "document_index": 346,
+                    "title": "Janakiram MSV",
+                    "url": "https://thenewstack.io/author/janakiram/"
+                },
+                {
+                    "document_index": 347,
+                    "title": "Nacho Martínez",
+                    "url": "https://thenewstack.io/author/nacho-martinez/"
+                },
+                {
+                    "document_index": 351,
+                    "title": "Kimberly Fessel",
+                    "url": "https://thenewstack.io/author/kimberly-fessel/"
+                },
+                {
+                    "document_index": 352,
+                    "title": "Jenny Morris",
+                    "url": "https://thenewstack.io/author/jenny-morris/"
+                },
+                {
+                    "document_index": 355,
+                    "title": "Mayank Ahluwalia",
+                    "url": "https://thenewstack.io/author/mayank-ahluwalia/"
+                },
+                {
+                    "document_index": 359,
+                    "title": "Ankit Jain",
+                    "url": "https://thenewstack.io/author/ankitjain/"
+                },
+                {
+                    "document_index": 362,
+                    "title": "The New Stack | AI-Native Software Engineering News & Analysis",
+                    "url": "https://thenewstack.io/?utm_content=homepage+logo"
+                },
+                {
+                    "document_index": 365,
+                    "title": "The New Stack | AI-Native Software Engineering News & Analysis",
+                    "url": "https://thenewstack.io/page/2/"
+                },
+                {
+                    "document_index": 366,
+                    "title": "The New Stack | AI-Native Software Engineering News & Analysis",
+                    "url": "https://thenewstack.io/page/3/"
+                },
+                {
+                    "document_index": 367,
+                    "title": "The New Stack | AI-Native Software Engineering News & Analysis",
+                    "url": "https://thenewstack.io/page/277/"
+                },
+                {
+                    "document_index": 368,
+                    "title": "The New Stack | AI-Native Software Engineering News & Analysis",
+                    "url": "https://thenewstack.io/page/278/"
+                },
+                {
+                    "document_index": 369,
+                    "title": "The New Stack | AI-Native Software Engineering News & Analysis",
+                    "url": "https://thenewstack.io/page/279/"
+                },
+                {
+                    "document_index": 373,
+                    "title": "TechCrunch Founder Summit 2026 | TechCrunch",
+                    "url": "https://techcrunch.com/events/techcrunch-founder-summit-2026/?utm_source=tc&utm_medium=ad&utm_campaign=tcfoundersummit2026&utm_content=ticketsales&promo=topbanner_bogo&display="
+                },
+                {
+                    "document_index": 374,
+                    "title": "Category: AI - Ars Technica",
+                    "url": "https://arstechnica.com/ai/"
+                },
+                {
+                    "document_index": 375,
+                    "title": "Engadget | Technology News & Expert Reviews",
+                    "url": "https://www.engadget.com/"
+                },
+                {
+                    "document_index": 376,
+                    "title": "TechCrunch Disrupt 2026 | TechCrunch",
+                    "url": "https://techcrunch.com/events/techcrunch-disrupt/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=ticketsales&promo=topbanner_rbplusbogo&display="
+                },
+                {
+                    "document_index": 377,
+                    "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+                    "url": "https://arstechnica.com/"
+                },
+                {
+                    "document_index": 378,
+                    "title": "AI - Engadget",
+                    "url": "https://www.engadget.com/category/ai/"
+                },
+                {
+                    "document_index": 379,
+                    "title": "TechCrunch | Startup and Technology News",
+                    "url": "https://techcrunch.com/"
+                },
+                {
+                    "document_index": 381,
+                    "title": "Latest Stories - Engadget",
+                    "url": "https://www.engadget.com/latest/"
+                },
+                {
+                    "document_index": 382,
+                    "title": "Latest News | TechCrunch",
+                    "url": "https://techcrunch.com/latest/"
+                },
+                {
+                    "document_index": 384,
+                    "title": "News - Engadget",
+                    "url": "https://www.engadget.com/category/news/"
+                },
+                {
+                    "document_index": 385,
+                    "title": "Startups | TechCrunch",
+                    "url": "https://techcrunch.com/category/startups/"
+                },
+                {
+                    "document_index": 386,
+                    "title": "Category: Biz & IT - Ars Technica",
+                    "url": "https://arstechnica.com/information-technology/"
+                },
+                {
+                    "document_index": 387,
+                    "title": "Apps - Engadget",
+                    "url": "https://www.engadget.com/category/apps/"
+                },
+                {
+                    "document_index": 388,
+                    "title": "Venture Capital News | TechCrunch",
+                    "url": "https://techcrunch.com/category/venture/"
+                },
+                {
+                    "document_index": 389,
+                    "title": "Category: Cars - Ars Technica",
+                    "url": "https://arstechnica.com/cars/"
+                },
+                {
+                    "document_index": 391,
+                    "title": "Apple news and analysis | TechCrunch",
+                    "url": "https://techcrunch.com/tag/apple/"
+                },
+                {
+                    "document_index": 392,
+                    "title": "Category: Culture - Ars Technica",
+                    "url": "https://arstechnica.com/culture/"
+                },
+                {
+                    "document_index": 393,
+                    "title": "Mobile - Engadget",
+                    "url": "https://www.engadget.com/category/mobile/"
+                },
+                {
+                    "document_index": 394,
+                    "title": "Security News | TechCrunch",
+                    "url": "https://techcrunch.com/category/security/"
+                },
+                {
+                    "document_index": 395,
+                    "title": "Category: Gaming - Ars Technica",
+                    "url": "https://arstechnica.com/gaming/"
+                },
+                {
+                    "document_index": 396,
+                    "title": "Social Media - Engadget",
+                    "url": "https://www.engadget.com/category/social-media/"
+                },
+                {
+                    "document_index": 397,
+                    "title": "AI News & Artificial Intelligence | TechCrunch",
+                    "url": "https://techcrunch.com/category/artificial-intelligence/"
+                },
+                {
+                    "document_index": 398,
+                    "title": "Category: Health - Ars Technica",
+                    "url": "https://arstechnica.com/health/"
+                },
+                {
+                    "document_index": 400,
+                    "title": "Apps | Read the latest app news on TechCrunch",
+                    "url": "https://techcrunch.com/category/apps/"
+                },
+                {
+                    "document_index": 401,
+                    "title": "Category: Policy - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/"
+                },
+                {
+                    "document_index": 402,
+                    "title": "Reviews - Engadget",
+                    "url": "https://www.engadget.com/category/reviews/"
+                },
+                {
+                    "document_index": 403,
+                    "title": "Category: Science - Ars Technica",
+                    "url": "https://arstechnica.com/science/"
+                },
+                {
+                    "document_index": 404,
+                    "title": "Smartphones - Engadget",
+                    "url": "https://www.engadget.com/category/smartphone-reviews/"
+                },
+                {
+                    "document_index": 406,
+                    "title": "Category: Security - Ars Technica",
+                    "url": "https://arstechnica.com/security/"
+                },
+                {
+                    "document_index": 407,
+                    "title": "Laptops & PCs - Engadget",
+                    "url": "https://www.engadget.com/category/laptop-pc-reviews/"
+                },
+                {
+                    "document_index": 410,
+                    "title": "Gaming - Engadget",
+                    "url": "https://www.engadget.com/category/gaming-reviews/"
+                },
+                {
+                    "document_index": 411,
+                    "title": "Category: Tech - Ars Technica",
+                    "url": "https://arstechnica.com/gadgets/"
+                },
+                {
+                    "document_index": 413,
+                    "title": "Amazon news and analysis | TechCrunch",
+                    "url": "https://techcrunch.com/tag/amazon/"
+                },
+                {
+                    "document_index": 414,
+                    "title": "Category: Features - Ars Technica",
+                    "url": "https://arstechnica.com/features/"
+                },
+                {
+                    "document_index": 415,
+                    "title": "Wearables - Engadget",
+                    "url": "https://www.engadget.com/category/wearable-reviews/"
+                },
+                {
+                    "document_index": 416,
+                    "title": "Biotech News | Read the latest health news on TechCrunch",
+                    "url": "https://techcrunch.com/category/biotech-health/"
+                },
+                {
+                    "document_index": 417,
+                    "title": "Category: Reviews - Ars Technica",
+                    "url": "https://arstechnica.com/reviews/"
+                },
+                {
+                    "document_index": 419,
+                    "title": "Climate News | TechCrunch",
+                    "url": "https://techcrunch.com/category/climate/"
+                },
+                {
+                    "document_index": 420,
+                    "title": "Updated Google privacy policy says your Gmail might be used for advertising - Ars Technica",
+                    "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
+                },
+                {
+                    "document_index": 422,
+                    "title": "Cloud Computing | TechCrunch",
+                    "url": "https://techcrunch.com/tag/cloud-computing/"
+                },
+                {
+                    "document_index": 423,
+                    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
+                },
+                {
+                    "document_index": 425,
+                    "title": "Commerce News | TechCrunch",
+                    "url": "https://techcrunch.com/category/commerce/"
+                },
+                {
+                    "document_index": 426,
+                    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
+                },
+                {
+                    "document_index": 427,
+                    "title": "Buying Guides - Engadget",
+                    "url": "https://www.engadget.com/category/best-tech/"
+                },
+                {
+                    "document_index": 428,
+                    "title": "Crypto News | TechCrunch",
+                    "url": "https://techcrunch.com/category/cryptocurrency/"
+                },
+                {
+                    "document_index": 429,
+                    "title": "The new human-crafted Apple Music brand matters in an AI world - Ars Technica",
+                    "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/"
+                },
+                {
+                    "document_index": 430,
+                    "title": "Enterprise News | TechCrunch",
+                    "url": "https://techcrunch.com/category/enterprise/"
+                },
+                {
+                    "document_index": 431,
+                    "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
+                },
+                {
+                    "document_index": 432,
+                    "title": "EVs | TechCrunch",
+                    "url": "https://techcrunch.com/tag/evs/"
+                },
+                {
+                    "document_index": 433,
+                    "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/"
+                },
+                {
+                    "document_index": 435,
+                    "title": "Fintech News | TechCrunch",
+                    "url": "https://techcrunch.com/category/fintech/"
+                },
+                {
+                    "document_index": 436,
+                    "title": "The $15 billion ad-powered AI startup your doctor may already be using - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/"
+                },
+                {
+                    "document_index": 437,
+                    "title": "Fundraising | TechCrunch",
+                    "url": "https://techcrunch.com/category/fundraising/"
+                },
+                {
+                    "document_index": 438,
+                    "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
+                },
+                {
+                    "document_index": 439,
+                    "title": "The best gaming handhelds for 2026",
+                    "url": "https://www.engadget.com/gaming/best-handheld-gaming-system-140018863.html"
+                },
+                {
+                    "document_index": 440,
+                    "title": "Gadgets | Latest gadget news, updates & reviews on TechCrunch",
+                    "url": "https://techcrunch.com/category/gadgets/"
+                },
+                {
+                    "document_index": 442,
+                    "title": "The best E Ink tablets for 2026",
+                    "url": "https://www.engadget.com/mobile/tablets/best-e-ink-tablet-130037939.html"
+                },
+                {
+                    "document_index": 443,
+                    "title": "Gaming News | TechCrunch",
+                    "url": "https://techcrunch.com/category/gaming/"
+                },
+                {
+                    "document_index": 446,
+                    "title": "Google news and analysis | TechCrunch",
+                    "url": "https://techcrunch.com/tag/google/"
+                },
+                {
+                    "document_index": 447,
+                    "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/"
+                },
+                {
+                    "document_index": 449,
+                    "title": "Tech Policy & Government | TechCrunch",
+                    "url": "https://techcrunch.com/category/government-policy/"
+                },
+                {
+                    "document_index": 450,
+                    "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites - Ars Technica",
+                    "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/"
+                },
+                {
+                    "document_index": 452,
+                    "title": "Hardware | Read the latest product reviews on TechCrunch",
+                    "url": "https://techcrunch.com/category/hardware/"
+                },
+                {
+                    "document_index": 454,
+                    "title": "Best Wireless Earbuds For 2026",
+                    "url": "https://www.engadget.com/audio/headphones/best-wireless-earbuds-120058222.html"
+                },
+                {
+                    "document_index": 455,
+                    "title": "Instagram | TechCrunch",
+                    "url": "https://techcrunch.com/tag/instagram/"
+                },
+                {
+                    "document_index": 456,
+                    "title": "Gemini's Personal Intelligence is coming to cars - Ars Technica",
+                    "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/"
+                },
+                {
+                    "document_index": 457,
+                    "title": "Gaming - Engadget",
+                    "url": "https://www.engadget.com/category/gaming/"
+                },
+                {
+                    "document_index": 458,
+                    "title": "Layoffs | TechCrunch",
+                    "url": "https://techcrunch.com/tag/layoffs/"
+                },
+                {
+                    "document_index": 459,
+                    "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice - Ars Technica",
+                    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/"
+                },
+                {
+                    "document_index": 461,
+                    "title": "Media & Entertainment News | TechCrunch",
+                    "url": "https://techcrunch.com/category/media-entertainment/"
+                },
+                {
+                    "document_index": 462,
+                    "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/"
+                },
+                {
+                    "document_index": 463,
+                    "title": "PC Gaming - Engadget",
+                    "url": "https://www.engadget.com/category/pc/"
+                },
+                {
+                    "document_index": 464,
+                    "title": "Meta | TechCrunch",
+                    "url": "https://techcrunch.com/tag/meta/"
+                },
+                {
+                    "document_index": 465,
+                    "title": "Meta Muse exposes users' personal and business secrets when they share conversations - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+                },
+                {
+                    "document_index": 466,
+                    "title": "PlayStation - Engadget",
+                    "url": "https://www.engadget.com/category/playstation/"
+                },
+                {
+                    "document_index": 467,
+                    "title": "Microsoft | TechCrunch",
+                    "url": "https://techcrunch.com/tag/microsoft/"
+                },
+                {
+                    "document_index": 468,
+                    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
+                },
+                {
+                    "document_index": 470,
+                    "title": "Privacy News | TechCrunch",
+                    "url": "https://techcrunch.com/category/privacy/"
+                },
+                {
+                    "document_index": 471,
+                    "title": "AI game clones are making indie developers afraid to show their work - Ars Technica",
+                    "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/"
+                },
+                {
+                    "document_index": 472,
+                    "title": "Big Tech - Engadget",
+                    "url": "https://www.engadget.com/category/big-tech/"
+                },
+                {
+                    "document_index": 473,
+                    "title": "Robotics News | TechCrunch",
+                    "url": "https://techcrunch.com/category/robotics/"
+                },
+                {
+                    "document_index": 474,
+                    "title": "Disney found a way to buy Character.AI without buying its lawsuits - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
+                },
+                {
+                    "document_index": 475,
+                    "title": "Amazon - Engadget",
+                    "url": "https://www.engadget.com/category/amazon/"
+                },
+                {
+                    "document_index": 477,
+                    "title": "Anthropic gives outside AI watchdog “employee-like” access - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+                },
+                {
+                    "document_index": 478,
+                    "title": "Apple - Engadget",
+                    "url": "https://www.engadget.com/category/apple/"
+                },
+                {
+                    "document_index": 479,
+                    "title": "Space News | TechCrunch",
+                    "url": "https://techcrunch.com/category/space/"
+                },
+                {
+                    "document_index": 480,
+                    "title": "OpenAI models hacked a crypto wallet and breached more websites - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+                },
+                {
+                    "document_index": 481,
+                    "title": "Google - Engadget",
+                    "url": "https://www.engadget.com/category/google/"
+                },
+                {
+                    "document_index": 482,
+                    "title": "TikTok | TechCrunch",
+                    "url": "https://techcrunch.com/tag/tiktok/"
+                },
+                {
+                    "document_index": 483,
+                    "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
+                },
+                {
+                    "document_index": 484,
+                    "title": "Meta - Engadget",
+                    "url": "https://www.engadget.com/category/meta/"
+                },
+                {
+                    "document_index": 485,
+                    "title": "Transportation & Auto News | TechCrunch",
+                    "url": "https://techcrunch.com/category/transportation/"
+                },
+                {
+                    "document_index": 486,
+                    "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
+                },
+                {
+                    "document_index": 487,
+                    "title": "Microsoft - Engadget",
+                    "url": "https://www.engadget.com/category/microsoft/"
+                },
+                {
+                    "document_index": 488,
+                    "title": "About TechCrunch | TechCrunch",
+                    "url": "https://techcrunch.com/about-techcrunch/"
+                },
+                {
+                    "document_index": 489,
+                    "title": "Super Scam Me documentary shows what it takes to catch a romance scammer - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/"
+                },
+                {
+                    "document_index": 491,
+                    "title": "Startup Battlefield | TechCrunch",
+                    "url": "https://techcrunch.com/startup-battlefield/"
+                },
+                {
+                    "document_index": 492,
+                    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax” - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+                },
+                {
+                    "document_index": 493,
+                    "title": "Entertainment - Engadget",
+                    "url": "https://www.engadget.com/category/entertainment/"
+                },
+                {
+                    "document_index": 494,
+                    "title": "Videos Archive | TechCrunch",
+                    "url": "https://techcrunch.com/video/"
+                },
+                {
+                    "document_index": 495,
+                    "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling. - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
+                },
+                {
+                    "document_index": 496,
+                    "title": "TV & Movies - Engadget",
+                    "url": "https://www.engadget.com/category/tv-movies/"
+                },
+                {
+                    "document_index": 497,
+                    "title": "Sponsored Content Archive | TechCrunch",
+                    "url": "https://techcrunch.com/sponsored/"
+                },
+                {
+                    "document_index": 498,
+                    "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam - Ars Technica",
+                    "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
+                },
+                {
+                    "document_index": 499,
+                    "title": "Streaming - Engadget",
+                    "url": "https://www.engadget.com/category/streaming/"
+                },
+                {
+                    "document_index": 501,
+                    "title": "Researchers use AI to design proteins that cut up other proteins - Ars Technica",
+                    "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
+                },
+                {
+                    "document_index": 502,
+                    "title": "Cybersecurity - Engadget",
+                    "url": "https://www.engadget.com/category/cybersecurity/"
+                },
+                {
+                    "document_index": 504,
+                    "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
+                },
+                {
+                    "document_index": 506,
+                    "title": "Generative AI news and analysis | TechCrunch",
+                    "url": "https://techcrunch.com/tag/generative-ai/"
+                },
+                {
+                    "document_index": 507,
+                    "title": "Anthropic warns small AI models could self-replicate through IoT devices - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+                },
+                {
+                    "document_index": 508,
+                    "title": "Wearables - Engadget",
+                    "url": "https://www.engadget.com/category/wearables/"
+                },
+                {
+                    "document_index": 509,
+                    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+                },
+                {
+                    "document_index": 510,
+                    "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
+                },
+                {
+                    "document_index": 511,
+                    "title": "Tomorrow - Engadget",
+                    "url": "https://www.engadget.com/category/tomorrow/"
+                },
+                {
+                    "document_index": 512,
+                    "title": "Tim Fernholz, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/tim-fernholz/"
+                },
+                {
+                    "document_index": 513,
+                    "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
+                },
+                {
+                    "document_index": 514,
+                    "title": "Science - Engadget",
+                    "url": "https://www.engadget.com/category/science/"
+                },
+                {
+                    "document_index": 515,
+                    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
+                },
+                {
+                    "document_index": 516,
+                    "title": "Google wants to host your personal vibe-coded apps in the Play Store - Ars Technica",
+                    "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/"
+                },
+                {
+                    "document_index": 517,
+                    "title": "Space - Engadget",
+                    "url": "https://www.engadget.com/category/space/"
+                },
+                {
+                    "document_index": 518,
+                    "title": "Julie Bort, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/julie-bort/"
+                },
+                {
+                    "document_index": 519,
+                    "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+                },
+                {
+                    "document_index": 521,
+                    "title": "TechCrunch Founder Summit 2026 | TechCrunch",
+                    "url": "https://techcrunch.com/events/techcrunch-founder-summit-2026/"
+                },
+                {
+                    "document_index": 523,
+                    "title": "About Us - Engadget",
+                    "url": "https://www.engadget.com/about/"
+                },
+                {
+                    "document_index": 524,
+                    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+                },
+                {
+                    "document_index": 525,
+                    "title": "Epic Games reportedly pivoting to \"AI first\" game development model - Ars Technica",
+                    "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
+                },
+                {
+                    "document_index": 526,
+                    "title": "Policies - Engadget",
+                    "url": "https://www.engadget.com/policies/"
+                },
+                {
+                    "document_index": 527,
+                    "title": "TechCrunch Events, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/techcrunch-events/"
+                },
+                {
+                    "document_index": 528,
+                    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
+                },
+                {
+                    "document_index": 529,
+                    "title": "AI Policy - Engadget",
+                    "url": "https://www.engadget.com/ai-policy/"
+                },
+                {
+                    "document_index": 530,
+                    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+                },
+                {
+                    "document_index": 531,
+                    "title": "Russia was not ready for the data center war it started with Ukraine - Ars Technica",
+                    "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
+                },
+                {
+                    "document_index": 533,
+                    "title": "Jagmeet Singh, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/jagmeet-singh/"
+                },
+                {
+                    "document_index": 534,
+                    "title": "Amazon has over 1 million robot workers. What’s next for human employees? - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/"
+                },
+                {
+                    "document_index": 536,
+                    "title": "Left alone with nothing to do, AI agents started playing | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+                },
+                {
+                    "document_index": 537,
+                    "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\" - Ars Technica",
+                    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+                },
+                {
+                    "document_index": 539,
+                    "title": "Aditya Mehta, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/aditya-mehta/"
+                },
+                {
+                    "document_index": 540,
+                    "title": "Category: AI - Ars Technica",
+                    "url": "https://arstechnica.com/ai/page/2/"
+                },
+                {
+                    "document_index": 541,
+                    "title": "OpenAI Says It's Cutting Off Internet Access For Frontier Model Training",
+                    "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/"
+                },
+                {
+                    "document_index": 542,
+                    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+                },
+                {
+                    "document_index": 544,
+                    "title": "Unauthorized AI Agents Are Reportedly Already Accessing US Bank Accounts",
+                    "url": "https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/"
+                },
+                {
+                    "document_index": 545,
+                    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+                },
+                {
+                    "document_index": 546,
+                    "title": "Staff Directory - Ars Technica",
+                    "url": "https://arstechnica.com/staff-directory/"
+                },
+                {
+                    "document_index": 547,
+                    "title": "1Password Will Let Muse, Dots And Grok Bot Sign In To Sites For You Without Getting Your Credentials",
+                    "url": "https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/"
+                },
+                {
+                    "document_index": 548,
+                    "title": "Lucas Ropek, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/lucas-ropek/"
+                },
+                {
+                    "document_index": 550,
+                    "title": "Mark Zuckerberg Says Meta Is 'Entering A New Phase' With Muse",
+                    "url": "https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/"
+                },
+                {
+                    "document_index": 551,
+                    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+                },
+                {
+                    "document_index": 553,
+                    "title": "Claude Duet Is Anthropic's Answer To Meta Muse And OpenAI Dots",
+                    "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/"
+                },
+                {
+                    "document_index": 554,
+                    "title": "Canva releases its first image generation model | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+                },
+                {
+                    "document_index": 556,
+                    "title": "OpenAI's Agents Disabled Their Own Safety Monitoring Systems",
+                    "url": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/"
+                },
+                {
+                    "document_index": 557,
+                    "title": "Ivan Mehta, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/ivan-mehta/"
+                },
+                {
+                    "document_index": 558,
+                    "title": "Ars Technica's policy on generative AI - Ars Technica",
+                    "url": "https://arstechnica.com/ai-policy/"
+                },
+                {
+                    "document_index": 560,
+                    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’ | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+                },
+                {
+                    "document_index": 563,
+                    "title": "Rebecca Bellan, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/rebecca-bellan/"
+                },
+                {
+                    "document_index": 564,
+                    "title": "Google Brings Gemini Personal Intelligence To Android Auto",
+                    "url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/"
+                },
+                {
+                    "document_index": 565,
+                    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+                },
+                {
+                    "document_index": 567,
+                    "title": "Perplexity Makes It Easier To Run AI Workflows Entirely On Your Own Mac",
+                    "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/"
+                },
+                {
+                    "document_index": 568,
+                    "title": "Zack Whittaker, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/zack-whittaker/"
+                },
+                {
+                    "document_index": 570,
+                    "title": "OpenAI Says Its Models Can Help Banks Migrate From Old COBOL Programs",
+                    "url": "https://www.engadget.com/2291457/openai-says-its-models-can-translate-cobol/"
+                },
+                {
+                    "document_index": 571,
+                    "title": "Uber puts all 30,000 employees on ChatGPT Work | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+                },
+                {
+                    "document_index": 573,
+                    "title": "Meta Tweaks Its New Terms Of Service After Backlash Against Scraping",
+                    "url": "https://www.engadget.com/2291188/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping/"
+                },
+                {
+                    "document_index": 574,
+                    "title": "Spotify's current AI bet is about being the music service that agents choose | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
+                },
+                {
+                    "document_index": 575,
+                    "title": "AI coding agents generate more code, but not more software - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+                },
+                {
+                    "document_index": 576,
+                    "title": "Homeland Security Bans DeepSeek Use In Federal Civilian Agencies",
+                    "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/"
+                },
+                {
+                    "document_index": 577,
+                    "title": "Lauren Forristal, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/lauren-forristal/"
+                },
+                {
+                    "document_index": 578,
+                    "title": "AI disqualification yields new Nikon Small World in Motion winner - Ars Technica",
+                    "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
+                },
+                {
+                    "document_index": 579,
+                    "title": "Google Gemini 4 Agents Just Beat Minecraft With No Human Intervention",
+                    "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/"
+                },
+                {
+                    "document_index": 580,
+                    "title": "Claude Duet app is Anthropic's bet on agents | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+                },
+                {
+                    "document_index": 581,
+                    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+                },
+                {
+                    "document_index": 582,
+                    "title": "How To Use Google's SynthID AI Detection Website",
+                    "url": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/"
+                },
+                {
+                    "document_index": 583,
+                    "title": "Nirva raises $33M for a pendant that only listens to you | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"
+                },
+                {
+                    "document_index": 584,
+                    "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+                    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
+                },
+                {
+                    "document_index": 585,
+                    "title": "How To Create iPhone Shortcuts With Apple Intelligence (And Why You Should)",
+                    "url": "https://www.engadget.com/2283983/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should/"
+                },
+                {
+                    "document_index": 586,
+                    "title": "DeepSeek reportedly raises $15B days after US restrictions | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+                },
+                {
+                    "document_index": 587,
+                    "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
+                },
+                {
+                    "document_index": 588,
+                    "title": "Apple Updates App Store Rules To Ensure It Doesn't Offer AI Nudify Apps",
+                    "url": "https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/"
+                },
+                {
+                    "document_index": 589,
+                    "title": "Kate Park, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/kate-park/"
+                },
+                {
+                    "document_index": 590,
+                    "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/"
+                },
+                {
+                    "document_index": 591,
+                    "title": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task",
+                    "url": "https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/"
+                },
+                {
+                    "document_index": 592,
+                    "title": "Blackstone's Jas Khaira says fears over AI-buildout debt are overblown | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/"
+                },
+                {
+                    "document_index": 593,
+                    "title": "Mistral says \"Le Chonk\" can challenge the best AI models - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
+                },
+                {
+                    "document_index": 594,
+                    "title": "FTC Subpoenas OpenAI And Anthropic Following Safety Failures",
+                    "url": "https://www.engadget.com/2288104/ftc-subpoenas-open-ai-and-anthropic-following-safety-failures/"
+                },
+                {
+                    "document_index": 595,
+                    "title": "Marina Temkin, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/marina-temkin/"
+                },
+                {
+                    "document_index": 596,
+                    "title": "Google rolls out improved SynthID AI content detector, now available globally - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/"
+                },
+                {
+                    "document_index": 597,
+                    "title": "Meta Built A Huge Open-Weight AI Model For Macs, But You'll Need 1TB Of RAM To Run It",
+                    "url": "https://www.engadget.com/2287833/meta-built-a-huge-open-weight-ai-model-for-macs-but-youll-need-1tb-of-ram-to-run-it/"
+                },
+                {
+                    "document_index": 598,
+                    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
+                },
+                {
+                    "document_index": 599,
+                    "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
+                },
+                {
+                    "document_index": 600,
+                    "title": "Bee Unveils Two AI Note-Taking Devices, Its First New Products Since Being Acquired By Amazon",
+                    "url": "https://www.engadget.com/2287245/bee-frontier-bee-eclipse-bee-pro-launch/"
+                },
+                {
+                    "document_index": 601,
+                    "title": "TechCrunch Founder Summit 2026: Everything you need to know | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/"
+                },
+                {
+                    "document_index": 602,
+                    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+                },
+                {
+                    "document_index": 603,
+                    "title": "Iowa, Nebraska And Six Other States Are Suing OpenAI For Endangering Children",
+                    "url": "https://www.engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children/"
+                },
+                {
+                    "document_index": 604,
+                    "title": "Meta says Muse has over 10M users, with shopping a top activity | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+                },
+                {
+                    "document_index": 605,
+                    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+                },
+                {
+                    "document_index": 606,
+                    "title": "5 Clever Ways Gemini Can Automate Everyday Tasks",
+                    "url": "https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks/"
+                },
+                {
+                    "document_index": 607,
+                    "title": "Sarah Perez, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/sarah-perez/"
+                },
+                {
+                    "document_index": 608,
+                    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27 - Ars Technica",
+                    "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/"
+                },
+                {
+                    "document_index": 609,
+                    "title": "OpenAI Says It Found A 'Sophisticated Recording Device' Hidden In Its Offices",
+                    "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/"
+                },
+                {
+                    "document_index": 610,
+                    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
+                },
+                {
+                    "document_index": 611,
+                    "title": "AI glasses face their first major government crackdown - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/"
+                },
+                {
+                    "document_index": 612,
+                    "title": "What Is NVIDIA DLSS And How Does It Work?",
+                    "url": "https://www.engadget.com/2281734/what-is-nvidia-dlss-how-works/"
+                },
+                {
+                    "document_index": 613,
+                    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+                },
+                {
+                    "document_index": 614,
+                    "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+                },
+                {
+                    "document_index": 615,
+                    "title": "Google Will Let You Distribute Vibe-Coded Android Apps With Just A Google Account",
+                    "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/"
+                },
+                {
+                    "document_index": 616,
+                    "title": "PHP Armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
+                },
+                {
+                    "document_index": 617,
+                    "title": "Amazon’s $1B plan to combat data center backlash draws more backlash - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
+                },
+                {
+                    "document_index": 618,
+                    "title": "Google's Gemini 4 Argon Is Now Available In The Gemini App And AI Mode In Search",
+                    "url": "https://www.engadget.com/2285023/google-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search/"
+                },
+                {
+                    "document_index": 619,
+                    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
+                },
+                {
+                    "document_index": 620,
+                    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+                },
+                {
+                    "document_index": 621,
+                    "title": "Dominic-Madori Davis, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/dominic-madori-davis/"
+                },
+                {
+                    "document_index": 622,
+                    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI - Ars Technica",
+                    "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/"
+                },
+                {
+                    "document_index": 623,
+                    "title": "AI promises productivity, but for managers, it's mostly a headache for now | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/"
+                },
+                {
+                    "document_index": 624,
+                    "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search - Ars Technica",
+                    "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
+                },
+                {
+                    "document_index": 625,
+                    "title": "Ram Iyer, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/ram-iyer/"
+                },
+                {
+                    "document_index": 626,
+                    "title": "With most information hidden, the game Stratego had stumped AI—until now - Ars Technica",
+                    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+                },
+                {
+                    "document_index": 627,
+                    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+                },
+                {
+                    "document_index": 628,
+                    "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet - Ars Technica",
+                    "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
+                },
+                {
+                    "document_index": 629,
+                    "title": "Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
+                },
+                {
+                    "document_index": 630,
+                    "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise - Ars Technica",
+                    "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/"
+                },
+                {
+                    "document_index": 631,
+                    "title": "Anthropic’s cloud partnerships are getting messy | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+                },
+                {
+                    "document_index": 632,
+                    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
+                },
+                {
+                    "document_index": 633,
+                    "title": "SpaceX's AI business is beating expectations | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
+                },
+                {
+                    "document_index": 634,
+                    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/"
+                },
+                {
+                    "document_index": 635,
+                    "title": "Kirsten Korosec, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/kirsten-korosec/"
+                },
+                {
+                    "document_index": 636,
+                    "title": "Google's early attempt to pay websites for AI answers is struggling - Ars Technica",
+                    "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/"
+                },
+                {
+                    "document_index": 637,
+                    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
+                },
+                {
+                    "document_index": 638,
+                    "title": "Google figures out how to watermark AI-designed proteins - Ars Technica",
+                    "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
+                },
+                {
+                    "document_index": 639,
+                    "title": "AI News & Artificial Intelligence | Page 2 of 530 | TechCrunch",
+                    "url": "https://techcrunch.com/category/artificial-intelligence/page/2/"
+                },
+                {
+                    "document_index": 640,
+                    "title": "OpenAI delays IPO over AI safety concerns - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/"
+                },
+                {
+                    "document_index": 641,
+                    "title": "Protests against OpenAI get increasingly creative - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/"
+                },
+                {
+                    "document_index": 642,
+                    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/"
+                },
+                {
+                    "document_index": 643,
+                    "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
+                },
+                {
+                    "document_index": 645,
+                    "title": "Here's what actually happened in OpenAI's Australian gov't server hack - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
+                },
+                {
+                    "document_index": 646,
+                    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+                },
+                {
+                    "document_index": 647,
+                    "title": "OpenAI says planned GPT-6.1 is too insecure to release - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+                },
+                {
+                    "document_index": 648,
+                    "title": "Tesla starts Optimus robot production in California as profit falls 43% | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
+                },
+                {
+                    "document_index": 649,
+                    "title": "Anthropic’s IPO pitch includes a warning about human extinction - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
+                },
+                {
+                    "document_index": 650,
+                    "title": "Sean O'Kane, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/sean-okane/"
+                },
+                {
+                    "document_index": 651,
+                    "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome - Ars Technica",
+                    "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/"
+                },
+                {
+                    "document_index": 652,
+                    "title": "The internet is having a very bad cybersecurity day | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/"
+                },
+                {
+                    "document_index": 653,
+                    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
+                },
+                {
+                    "document_index": 654,
+                    "title": "People are using AI to make their smart TVs dumb again | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
+                },
+                {
+                    "document_index": 655,
+                    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/"
+                },
+                {
+                    "document_index": 657,
+                    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
+                },
+                {
+                    "document_index": 658,
+                    "title": "Site Map | TechCrunch",
+                    "url": "https://techcrunch.com/site-map/"
+                },
+                {
+                    "document_index": 659,
+                    "title": "Microsoft goes quiet after church groups ask for 1% of data center costs - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/"
+                },
+                {
+                    "document_index": 661,
+                    "title": "Category: AI - Ars Technica",
+                    "url": "https://arstechnica.com/ai/page/3/"
+                },
+                {
+                    "document_index": 665,
+                    "title": "These execs think voice AI hasn't reached its ChatGPT moment yet | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/"
+                },
+                {
+                    "document_index": 666,
+                    "title": "Anthropic can't reliably control its AI agents — it's cutting off its internal evals from the live internet instead | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+                },
+                {
+                    "document_index": 668,
+                    "title": "The 2026 Startup Battlefield 200 is here — see who made the cut | TechCrunch",
+                    "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/"
+                },
+                {
+                    "document_index": 669,
+                    "title": "A comprehensive list of 2025 tech layoffs | TechCrunch",
+                    "url": "https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/"
+                },
+                {
+                    "document_index": 670,
+                    "title": "ChatGPT: Everything you need to know about the AI chatbot",
+                    "url": "https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/"
+                }
+            ]
+        },
+        "ML": {
+            "document_count": 24,
+            "documents": [
+                {
+                    "document_index": 9,
+                    "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
+                    "url": "https://thenewstack.io/kubecon-kubernetes-updates-security/"
+                },
+                {
+                    "document_index": 33,
+                    "title": "Your phone's vector index might be bigger than the AI model running it",
+                    "url": "https://thenewstack.io/google-embeddinggemma-multimodal-search/"
+                },
+                {
+                    "document_index": 87,
+                    "title": "OpenSearch veterans launch Infino. Here's why it matters for agent builders.",
+                    "url": "https://thenewstack.io/infino-agent-retrieval-layer/"
+                },
+                {
+                    "document_index": 105,
+                    "title": "WebAssembly is everywhere. Here's how it works",
+                    "url": "https://thenewstack.io/webassembly-is-everywhere-heres-how-it-works/"
+                },
+                {
+                    "document_index": 121,
+                    "title": "AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan.",
+                    "url": "https://thenewstack.io/kubernetes-agentic-ai-inference/"
+                },
+                {
+                    "document_index": 132,
+                    "title": "AWS WAF vs. Google Cloud Armor: A Multicloud Security Showdown",
+                    "url": "https://thenewstack.io/aws-waf-vs-google-cloud-armor-a-multicloud-security-showdown/"
+                },
+                {
+                    "document_index": 155,
+                    "title": "JetBrains kills Kotlin Notebook months after Microsoft's Polyglot exit. But Jupyter is doing just fine.",
+                    "url": "https://thenewstack.io/kotlin-notebook-jupyter-python-retreat/"
+                },
+                {
+                    "document_index": 183,
+                    "title": "Introduction to Frontend Development",
+                    "url": "https://thenewstack.io/introduction-to-frontend-development/"
+                },
+                {
+                    "document_index": 196,
+                    "title": "Introduction to DevOps",
+                    "url": "https://thenewstack.io/introduction-to-devops/"
+                },
+                {
+                    "document_index": 204,
+                    "title": "Why the era of relying on dozens of \"purpose-built\" databases is finally coming to an end",
+                    "url": "https://thenewstack.io/unified-data-platform-strategy/"
+                },
+                {
+                    "document_index": 206,
+                    "title": "SQL, NoSQL and Vectors, Oh My!",
+                    "url": "https://thenewstack.io/sql-nosql-and-vectors-oh-my/"
+                },
+                {
+                    "document_index": 207,
+                    "title": "Introduction to Databases",
+                    "url": "https://thenewstack.io/introduction-to-databases/"
+                },
+                {
+                    "document_index": 212,
+                    "title": "Infrastructure as Code: Introduction to IaC",
+                    "url": "https://thenewstack.io/introduction-to-infrastructure-as-code/"
+                },
+                {
+                    "document_index": 219,
+                    "title": "WebAssembly is everywhere. Here's how it works",
+                    "url": "https://thenewstack.io/webassembly-deep-dive/"
+                },
+                {
+                    "document_index": 224,
+                    "title": "Why Your Legacy APIs Are a Roadblock for AI Agents",
+                    "url": "https://thenewstack.io/why-your-legacy-apis-are-a-roadblock-for-ai-agents/"
+                },
+                {
+                    "document_index": 226,
+                    "title": "Introduction to Containers",
+                    "url": "https://thenewstack.io/introduction-to-containers/"
+                },
+                {
+                    "document_index": 267,
+                    "title": "AI Archives",
+                    "url": "https://thenewstack.io/ai/"
+                },
+                {
+                    "document_index": 295,
+                    "title": "Kubernetes Archives",
+                    "url": "https://thenewstack.io/kubernetes/"
+                },
+                {
+                    "document_index": 325,
+                    "title": "Events",
+                    "url": "https://thenewstack.io/events/"
+                },
+                {
+                    "document_index": 335,
+                    "title": "Contributions",
+                    "url": "https://thenewstack.io/contributions/"
+                },
+                {
+                    "document_index": 389,
+                    "title": "Category: Cars - Ars Technica",
+                    "url": "https://arstechnica.com/cars/"
+                },
+                {
+                    "document_index": 474,
+                    "title": "Disney found a way to buy Character.AI without buying its lawsuits - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
+                },
+                {
+                    "document_index": 651,
+                    "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome - Ars Technica",
+                    "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/"
+                },
+                {
+                    "document_index": 668,
+                    "title": "The 2026 Startup Battlefield 200 is here — see who made the cut | TechCrunch",
+                    "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/"
+                }
+            ]
+        }
+    }
+}

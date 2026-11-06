@@ -1,0 +1,1100 @@
+{
+    "topic": "Cybersecurity Attacks",
+    "total_documents": 670,
+    "terms": [
+        {
+            "term": "cybersecurity",
+            "document_count": 38,
+            "documents": [
+                {
+                    "title": "How Darth Vader Taught Me Card Counting and AI Security Got Weird",
+                    "url": "https://spectrum.ieee.org/jailbreaking-llms",
+                    "occurrences": 2
+                },
+                {
+                    "title": "PHP’s security scramble is just a preview: AI is digging up flaws faster than maintainers can fix them",
+                    "url": "https://thenewstack.io/php2shell-ai-vulnerabilities-maintainers/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Edge-forward: Akamai eyes sweet spot between centralized & decentralized AI inference",
+                    "url": "https://thenewstack.io/akamai-edge-ai-inference/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "OpenAI launches GPT-6 Astra and says welcome to the \"AGI era\"",
+                    "url": "https://thenewstack.io/openai-gpt6-astra-benchmarks/",
+                    "occurrences": 4
+                },
+                {
+                    "title": "Jensen Huang says the junior developer problem ends in two years. Here's his math.",
+                    "url": "https://thenewstack.io/huang-ai-agents-engineers/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Memory-Safe Jule language emerges as C/C++ alternative",
+                    "url": "https://thenewstack.io/jule-open-source-programming-language/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Amodei says Anthropic’s safety delay may have cost it an AI lead",
+                    "url": "https://thenewstack.io/anthropic-mythos-safety-pace/",
+                    "occurrences": 6
+                },
+                {
+                    "title": "Storage Archives",
+                    "url": "https://thenewstack.io/storage/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Security Archives",
+                    "url": "https://thenewstack.io/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Meredith Shubel",
+                    "url": "https://thenewstack.io/author/mshubel/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Jeff Hickman",
+                    "url": "https://thenewstack.io/author/jeff-hickman/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "TechCrunch | Startup and Technology News",
+                    "url": "https://techcrunch.com/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Category: Biz & IT - Ars Technica",
+                    "url": "https://arstechnica.com/information-technology/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Security News | TechCrunch",
+                    "url": "https://techcrunch.com/category/security/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Category: Security - Ars Technica",
+                    "url": "https://arstechnica.com/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Microsoft | TechCrunch",
+                    "url": "https://techcrunch.com/tag/microsoft/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Videos Archive | TechCrunch",
+                    "url": "https://techcrunch.com/video/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Cybersecurity - Engadget",
+                    "url": "https://www.engadget.com/category/cybersecurity/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Lucas Ropek, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/lucas-ropek/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Rebecca Bellan, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/rebecca-bellan/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Zack Whittaker, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/zack-whittaker/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Uber puts all 30,000 employees on ChatGPT Work | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Sarah Perez, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/sarah-perez/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Google's Gemini 4 Argon Is Now Available In The Gemini App And AI Mode In Search",
+                    "url": "https://www.engadget.com/2285023/google-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet - Ars Technica",
+                    "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+                    "occurrences": 3
+                },
+                {
+                    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "OpenAI says planned GPT-6.1 is too insecure to release - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "The internet is having a very bad cybersecurity day | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+                    "occurrences": 5
+                },
+                {
+                    "title": "Category: AI - Ars Technica",
+                    "url": "https://arstechnica.com/ai/page/3/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Surveillance company Flock cuts staff as privacy backlash grows | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+                    "occurrences": 3
+                },
+                {
+                    "title": "The 2026 Startup Battlefield 200 is here — see who made the cut | TechCrunch",
+                    "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "A comprehensive list of 2025 tech layoffs | TechCrunch",
+                    "url": "https://techcrunch.com/2025/12/22/tech-layoffs-2025-list/",
+                    "occurrences": 7
+                }
+            ]
+        },
+        {
+            "term": "cyber security",
+            "document_count": 7,
+            "documents": [
+                {
+                    "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
+                    "url": "https://thenewstack.io/muse-wonder-claude-fable/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Storage Archives",
+                    "url": "https://thenewstack.io/storage/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Tech Policy & Government | TechCrunch",
+                    "url": "https://techcrunch.com/category/government-policy/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Anthropic gives outside AI watchdog “employee-like” access - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Zack Whittaker, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/zack-whittaker/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Anthropic’s IPO pitch includes a warning about human extinction - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "cyber attack",
+            "document_count": 0,
+            "documents": []
+        },
+        {
+            "term": "cyber attacks",
+            "document_count": 0,
+            "documents": []
+        },
+        {
+            "term": "cyberattack",
+            "document_count": 10,
+            "documents": [
+                {
+                    "title": "DNS is infrastructure. It’s time to manage it that way.",
+                    "url": "https://thenewstack.io/dns-domain-management-automation/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "TechCrunch | Startup and Technology News",
+                    "url": "https://techcrunch.com/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: Biz & IT - Ars Technica",
+                    "url": "https://arstechnica.com/information-technology/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Security News | TechCrunch",
+                    "url": "https://techcrunch.com/category/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: Security - Ars Technica",
+                    "url": "https://arstechnica.com/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Zack Whittaker, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/zack-whittaker/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "cyberattacks",
+            "document_count": 3,
+            "documents": [
+                {
+                    "title": "Amodei says Anthropic’s safety delay may have cost it an AI lead",
+                    "url": "https://thenewstack.io/anthropic-mythos-safety-pace/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Security News | TechCrunch",
+                    "url": "https://techcrunch.com/category/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Mistral says \"Le Chonk\" can challenge the best AI models - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "network security",
+            "document_count": 4,
+            "documents": [
+                {
+                    "title": "Cloudflare aqui-hires VoidZero: Did a piece of the open web just stabilize, or become more brittle?",
+                    "url": "https://thenewstack.io/cloudflare-voidzero-acquisition-vite/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "AI agent security is a lifecycle — not a gatekeeper",
+                    "url": "https://thenewstack.io/ai-agent-security-lifecycle/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Introduction to Containers",
+                    "url": "https://thenewstack.io/introduction-to-containers/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Security Archives",
+                    "url": "https://thenewstack.io/security/",
+                    "occurrences": 12
+                }
+            ]
+        },
+        {
+            "term": "security attack",
+            "document_count": 0,
+            "documents": []
+        },
+        {
+            "term": "security breach",
+            "document_count": 0,
+            "documents": []
+        },
+        {
+            "term": "data breach",
+            "document_count": 9,
+            "documents": [
+                {
+                    "title": "A few engineers asked IT for Linux. Then it spread to 200 machines.",
+                    "url": "https://thenewstack.io/linux-developer-device-management/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Infrastructure as Code: Introduction to IaC",
+                    "url": "https://thenewstack.io/introduction-to-infrastructure-as-code/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: AI - Ars Technica",
+                    "url": "https://arstechnica.com/ai/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Security News | TechCrunch",
+                    "url": "https://techcrunch.com/category/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: Policy - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/",
+                    "occurrences": 3
+                },
+                {
+                    "title": "Category: Features - Ars Technica",
+                    "url": "https://arstechnica.com/features/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Jagmeet Singh, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/jagmeet-singh/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Zack Whittaker, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/zack-whittaker/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "data leak",
+            "document_count": 0,
+            "documents": []
+        },
+        {
+            "term": "data theft",
+            "document_count": 0,
+            "documents": []
+        },
+        {
+            "term": "hacking",
+            "document_count": 33,
+            "documents": [
+                {
+                    "title": "AI Is Redefining the Concept of a Programming Language's Popularity",
+                    "url": "https://spectrum.ieee.org/top-programming-languages",
+                    "occurrences": 1
+                },
+                {
+                    "title": "HIPPO Turns One Master Password Into Many Without Storing Any",
+                    "url": "https://spectrum.ieee.org/storeless-password-manager",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Jensen Huang says the junior developer problem ends in two years. Here's his math.",
+                    "url": "https://thenewstack.io/huang-ai-agents-engineers/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Storage Archives",
+                    "url": "https://thenewstack.io/storage/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Special Reports",
+                    "url": "https://spectrum.ieee.org/special-reports/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Ars OpenForum",
+                    "url": "https://arstechnica.com/civis/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: Biz & IT - Ars Technica",
+                    "url": "https://arstechnica.com/information-technology/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Security News | TechCrunch",
+                    "url": "https://techcrunch.com/category/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: Gaming - Ars Technica",
+                    "url": "https://arstechnica.com/gaming/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: Security - Ars Technica",
+                    "url": "https://arstechnica.com/security/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4 - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Meta Muse exposes users' personal and business secrets when they share conversations - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "OpenAI models hacked a crypto wallet and breached more websites - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Anthropic warns small AI models could self-replicate through IoT devices - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Staff Directory - Ars Technica",
+                    "url": "https://arstechnica.com/staff-directory/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Zack Whittaker, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/zack-whittaker/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet - Ars Technica",
+                    "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "OpenAI delays IPO over AI safety concerns - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+                    "occurrences": 4
+                },
+                {
+                    "title": "Here's what actually happened in OpenAI's Australian gov't server hack - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+                    "occurrences": 3
+                },
+                {
+                    "title": "OpenAI says planned GPT-6.1 is too insecure to release - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "People are using AI to make their smart TVs dumb again | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Anthropic can't reliably control its AI agents — it's cutting off its internal evals from the live internet instead | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "hacker",
+            "document_count": 9,
+            "documents": [
+                {
+                    "title": "DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too.",
+                    "url": "https://thenewstack.io/deepseek-web-search-api/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Respan spent two years building on LiteLLM. One upgrade made it start over.",
+                    "url": "https://thenewstack.io/respan-rust-ai-gateway/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "“We are not forking TypeScript”: Cloudflare spearheads Rust port written by agents, for agents",
+                    "url": "https://thenewstack.io/cloudflare-rust-typescript-tsrs/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Security News | TechCrunch",
+                    "url": "https://techcrunch.com/category/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Super Scam Me documentary shows what it takes to catch a romance scammer - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Zack Whittaker, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/zack-whittaker/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones - Ars Technica",
+                    "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+                    "occurrences": 3
+                },
+                {
+                    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27 - Ars Technica",
+                    "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "hackers",
+            "document_count": 29,
+            "documents": [
+                {
+                    "title": "Hackers hijacked 1,900 GitHub accounts. Then they went after 30,000 repos.",
+                    "url": "https://thenewstack.io/ghostaction-github-actions-attack/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "How a forgotten node can put Oracle Java back in production",
+                    "url": "https://thenewstack.io/azul-ai-assistant-java-risk/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Edge Computing Archives",
+                    "url": "https://thenewstack.io/edge-computing/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "AI Engineering Archives",
+                    "url": "https://thenewstack.io/ai-engineering/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "AI Operations Archives",
+                    "url": "https://thenewstack.io/ai-operations/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: AI - Ars Technica",
+                    "url": "https://arstechnica.com/ai/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+                    "url": "https://arstechnica.com/",
+                    "occurrences": 3
+                },
+                {
+                    "title": "TechCrunch | Startup and Technology News",
+                    "url": "https://techcrunch.com/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Category: Biz & IT - Ars Technica",
+                    "url": "https://arstechnica.com/information-technology/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Security News | TechCrunch",
+                    "url": "https://techcrunch.com/category/security/",
+                    "occurrences": 4
+                },
+                {
+                    "title": "Category: Gaming - Ars Technica",
+                    "url": "https://arstechnica.com/gaming/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "AI News & Artificial Intelligence | TechCrunch",
+                    "url": "https://techcrunch.com/category/artificial-intelligence/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: Security - Ars Technica",
+                    "url": "https://arstechnica.com/security/",
+                    "occurrences": 5
+                },
+                {
+                    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Crypto News | TechCrunch",
+                    "url": "https://techcrunch.com/category/cryptocurrency/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Tech Policy & Government | TechCrunch",
+                    "url": "https://techcrunch.com/category/government-policy/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Instagram | TechCrunch",
+                    "url": "https://techcrunch.com/tag/instagram/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Gaming - Engadget",
+                    "url": "https://www.engadget.com/category/gaming/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "PlayStation - Engadget",
+                    "url": "https://www.engadget.com/category/playstation/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Microsoft | TechCrunch",
+                    "url": "https://techcrunch.com/tag/microsoft/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Cybersecurity - Engadget",
+                    "url": "https://www.engadget.com/category/cybersecurity/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Aditya Mehta, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/aditya-mehta/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+                    "occurrences": 6
+                },
+                {
+                    "title": "Zack Whittaker, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/zack-whittaker/",
+                    "occurrences": 8
+                },
+                {
+                    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "PHP Armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+                    "occurrences": 4
+                },
+                {
+                    "title": "AI News & Artificial Intelligence | Page 2 of 530 | TechCrunch",
+                    "url": "https://techcrunch.com/category/artificial-intelligence/page/2/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "The internet is having a very bad cybersecurity day | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+                    "occurrences": 2
+                }
+            ]
+        },
+        {
+            "term": "intrusion",
+            "document_count": 3,
+            "documents": [
+                {
+                    "title": "AI agent security is a lifecycle — not a gatekeeper",
+                    "url": "https://thenewstack.io/ai-agent-security-lifecycle/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Security Archives",
+                    "url": "https://thenewstack.io/security/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Best Wireless Earbuds For 2026",
+                    "url": "https://www.engadget.com/audio/headphones/best-wireless-earbuds-120058222.html",
+                    "occurrences": 2
+                }
+            ]
+        },
+        {
+            "term": "malware",
+            "document_count": 21,
+            "documents": [
+                {
+                    "title": "Shai-Hulud: Whoever controls your package registry controls your pipeline",
+                    "url": "https://thenewstack.io/shai-hulud-pipeline-security/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "How Darth Vader Taught Me Card Counting and AI Security Got Weird",
+                    "url": "https://spectrum.ieee.org/jailbreaking-llms",
+                    "occurrences": 3
+                },
+                {
+                    "title": "MiniMax just halved its token prices. Your AI agent bill may not follow.",
+                    "url": "https://thenewstack.io/minimax-flash-agent-costs/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Chainguard targets Java's unpatched vulnerability backlog with drop-in remediated libraries",
+                    "url": "https://thenewstack.io/chainguard-java-libraries-spring-boot-cves/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Security Archives",
+                    "url": "https://thenewstack.io/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: Biz & IT - Ars Technica",
+                    "url": "https://arstechnica.com/information-technology/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: Security - Ars Technica",
+                    "url": "https://arstechnica.com/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Gaming News | TechCrunch",
+                    "url": "https://techcrunch.com/category/gaming/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4 - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "The best live TV streaming services to cut cable in 2026",
+                    "url": "https://www.engadget.com/entertainment/streaming/best-live-tv-streaming-service-133000410.html",
+                    "occurrences": 1
+                },
+                {
+                    "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Meta Muse exposes users' personal and business secrets when they share conversations - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "OpenAI models hacked a crypto wallet and breached more websites - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Cybersecurity - Engadget",
+                    "url": "https://www.engadget.com/category/cybersecurity/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Anthropic warns small AI models could self-replicate through IoT devices - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+                    "occurrences": 7
+                },
+                {
+                    "title": "Staff Directory - Ars Technica",
+                    "url": "https://arstechnica.com/staff-directory/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Homeland Security Bans DeepSeek Use In Federal Civilian Agencies",
+                    "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Terms of Service | TechCrunch",
+                    "url": "https://techcrunch.com/terms-of-service/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "ransomware",
+            "document_count": 0,
+            "documents": []
+        },
+        {
+            "term": "phishing",
+            "document_count": 3,
+            "documents": [
+                {
+                    "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+                    "url": "https://arstechnica.com/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Category: Policy - Ars Technica",
+                    "url": "https://arstechnica.com/tech-policy/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Category: Security - Ars Technica",
+                    "url": "https://arstechnica.com/security/",
+                    "occurrences": 2
+                }
+            ]
+        },
+        {
+            "term": "spyware",
+            "document_count": 6,
+            "documents": [
+                {
+                    "title": "Category: Biz & IT - Ars Technica",
+                    "url": "https://arstechnica.com/information-technology/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Security News | TechCrunch",
+                    "url": "https://techcrunch.com/category/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Category: Security - Ars Technica",
+                    "url": "https://arstechnica.com/security/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Cybersecurity - Engadget",
+                    "url": "https://www.engadget.com/category/cybersecurity/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Zack Whittaker, Author at TechCrunch",
+                    "url": "https://techcrunch.com/author/zack-whittaker/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Terms of Service | TechCrunch",
+                    "url": "https://techcrunch.com/terms-of-service/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "trojan",
+            "document_count": 2,
+            "documents": [
+                {
+                    "title": "Terms of Use",
+                    "url": "https://thenewstack.io/terms-of-use/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "The internet is having a very bad cybersecurity day | TechCrunch",
+                    "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "virus",
+            "document_count": 3,
+            "documents": [
+                {
+                    "title": "Big Tech - Engadget",
+                    "url": "https://www.engadget.com/category/big-tech/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Microsoft - Engadget",
+                    "url": "https://www.engadget.com/category/microsoft/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Cybersecurity - Engadget",
+                    "url": "https://www.engadget.com/category/cybersecurity/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "botnet",
+            "document_count": 2,
+            "documents": [
+                {
+                    "title": "Anthropic’s red team ran AI on 15 cheap TV boxes. Then the math got unsettling.",
+                    "url": "https://thenewstack.io/self-replicating-ai-worms/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "AWS WAF vs. Google Cloud Armor: A Multicloud Security Showdown",
+                    "url": "https://thenewstack.io/aws-waf-vs-google-cloud-armor-a-multicloud-security-showdown/",
+                    "occurrences": 2
+                }
+            ]
+        },
+        {
+            "term": "ddos",
+            "document_count": 3,
+            "documents": [
+                {
+                    "title": "AWS WAF vs. Google Cloud Armor: A Multicloud Security Showdown",
+                    "url": "https://thenewstack.io/aws-waf-vs-google-cloud-armor-a-multicloud-security-showdown/",
+                    "occurrences": 5
+                },
+                {
+                    "title": "Edge Computing Archives",
+                    "url": "https://thenewstack.io/edge-computing/",
+                    "occurrences": 1
+                },
+                {
+                    "title": "Anthropic warns small AI models could self-replicate through IoT devices - Ars Technica",
+                    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "denial of service",
+            "document_count": 2,
+            "documents": [
+                {
+                    "title": "DNS is infrastructure. It’s time to manage it that way.",
+                    "url": "https://thenewstack.io/dns-domain-management-automation/",
+                    "occurrences": 2
+                },
+                {
+                    "title": "Edge Computing Archives",
+                    "url": "https://thenewstack.io/edge-computing/",
+                    "occurrences": 1
+                }
+            ]
+        },
+        {
+            "term": "credential theft",
+            "document_count": 0,
+            "documents": []
+        },
+        {
+            "term": "cyber threat",
+            "document_count": 0,
+            "documents": []
+        },
+        {
+            "term": "cyber incident",
+            "document_count": 0,
+            "documents": []
+        }
+    ],
+    "existing_term_count": 18
+}
